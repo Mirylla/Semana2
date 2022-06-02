@@ -10,9 +10,7 @@ import os
 import pandas as pd
 import numpy as np  # np mean, np random
 import streamlit as st  # 🎈 data web app development
-#import hydralit as hy # para visualización barra de navegación
 import plotly.figure_factory as ff
-#import hydralit as hy
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
@@ -49,9 +47,9 @@ def my_home():
      st.dataframe(raw_df.head(100))
 
 
-@app.addapp()
+@app.addapp(title='Gráficos')
 def app2():
- hy.info('Hello from app 2')
+ hy.info('Gráficos')
  st.title("Load of german3")
  st.set_option('deprecation.showPyplotGlobalUse', False)
     #histogram
@@ -81,7 +79,7 @@ def app2():
    st.pyplot()
 
 
-@app.addapp(title='The Best', icon="🥰")
+@app.addapp(title='Correlación')
 def app3():
  hy.info('Correlación')
  st.title("Load of german3")
