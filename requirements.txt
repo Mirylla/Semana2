@@ -3,4 +3,4 @@ hydralit
 hydralit_components
 numpy
 pandas
-streamlit=v1.8.0
+streamlit==v1.8.0
