@@ -12,7 +12,7 @@ import numpy as np  # np mean, np random
 import streamlit as st  # 🎈 data web app development
 #import hydralit as hy # para visualización barra de navegación
 import plotly.figure_factory as ff
-import hydralit as hy
+#import hydralit as hy
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
