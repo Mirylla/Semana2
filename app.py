@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-# +
 #when we import hydralit, we automatically get all of Streamlit
 import hydralit as hy
 from hydralit import HydraApp
@@ -13,17 +11,18 @@ import streamlit as st  # 🎈 data web app development
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
+import apps
+
 
 app = hy.HydraApp(title='APP DATA SCIENCE')
 #Home button will be in the middle of the nav list now
-
+app.add_app("Data", icon="🏠", app=apps.HomeApp(title='Data'),is_home=True)
 @st.cache()
 def load_data(nrows):
     working_directory = os.getcwd()
     filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
     data_df = pd.read_csv(working_directory + filename,
                           delimiter=";")
-
     return data_df
 
 raw_df = load_data(100)
@@ -44,7 +43,6 @@ def my_home():
  with st.expander("Expandir para ver datos"):
      st.markdown("## DataSet of Loan")
      st.dataframe(raw_df.head(100))
-
 
 @app.addapp(title='Gráficos')
 def app2():
@@ -89,9 +87,6 @@ def app3():
   df.hist()
   plt.show()
   st.pyplot()
+    
 #Run the whole lot, we get navbar, state management and app isolation, all with this tiny amount of work.
 app.run()
-# -
-
-
-
