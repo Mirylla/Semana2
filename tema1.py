@@ -18,9 +18,7 @@ import apps
 from hydralit import HydraApp
 
 def load_data(nrows):
-    working_directory = os.getcwd()
-    filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
-    data_df = pd.read_csv(working_directory + filename,
+    data_df = pd.read_csv(loan.csv,
                           delimiter=";")
     return data_df
 
