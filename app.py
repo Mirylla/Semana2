@@ -9,7 +9,7 @@ import os
 import pandas as pd
 import numpy as np  # np mean, np random
 import streamlit as st  # 🎈 data web app development
-import plotly.figure_factory as ff
+#import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
