@@ -1,0 +1,1001 @@
+Loan Duration;Credit history;Purpose of Loan;Loan Amount;Savings Account;Length of Current Employment;Installment Rate as % of Income;Guarantors;Length of Current Property Residence;Age;Housing;Number of existing loans; Job;Number of dependants;foreign worker;Sex;status;Target
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1169;No Savings Account;more than 6 years;4;None;4;67;Ownership;2;Skilled;1;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;5951;Less than 100 DM;1-3 years;2;None;2;22;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Critical Account / Other Credits Existing at Other Bank;Education;2096;Less than 100 DM;4-6 years;2;None;3;49;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+42;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;7882;Less than 100 DM;4-6 years;2;Guarantor;4;45;Free Housing;1;Skilled;2;Yes;male;single;1
+24;Delay in Paying Off in the Past;New car;4870;Less than 100 DM;1-3 years;3;None;4;53;Free Housing;2;Skilled;2;Yes;male;single;2
+36;Existing Credits Paid Back Duly Till Now;Education;9055;No Savings Account;1-3 years;2;None;4;35;Free Housing;1;Unskilled - Resident;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2835;500-1000 DM;more than 6 years;3;None;4;53;Ownership;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Used car;6948;Less than 100 DM;1-3 years;2;None;2;35;Rented;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;3059;More than 1000 DM;4-6 years;2;None;4;61;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;1
+30;Critical Account / Other Credits Existing at Other Bank;New car;5234;Less than 100 DM;Unemployed;4;None;2;28;Ownership;2;Highly Skilled;1;Yes;male;married/widowed;2
+12;Existing Credits Paid Back Duly Till Now;New car;1295;Less than 100 DM;less than 1 year;3;None;1;25;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+48;Existing Credits Paid Back Duly Till Now;Business;4308;Less than 100 DM;less than 1 year;3;None;4;24;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1567;Less than 100 DM;1-3 years;1;None;1;22;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;New car;1199;Less than 100 DM;more than 6 years;4;None;4;60;Ownership;2;Unskilled - Resident;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;New car;1403;Less than 100 DM;1-3 years;2;None;4;28;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1282;100-500 DM;1-3 years;4;None;2;32;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2424;No Savings Account;more than 6 years;4;None;4;53;Ownership;2;Skilled;1;Yes;male;single;1
+30;No Credits Taken / All Credits Paid Back Duly;Business;8072;No Savings Account;less than 1 year;2;None;3;25;Ownership;3;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;12579;Less than 100 DM;more than 6 years;4;None;2;44;Free Housing;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3430;500-1000 DM;more than 6 years;3;None;2;31;Ownership;1;Skilled;2;Yes;male;single;1
+9;Critical Account / Other Credits Existing at Other Bank;New car;2134;Less than 100 DM;1-3 years;4;None;4;48;Ownership;3;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;2647;500-1000 DM;1-3 years;2;None;3;44;Rented;1;Skilled;2;Yes;male;single;1
+10;Critical Account / Other Credits Existing at Other Bank;New car;2241;Less than 100 DM;less than 1 year;1;None;3;48;Rented;2;Unskilled - Resident;2;No;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Used car;1804;100-500 DM;less than 1 year;3;None;4;44;Ownership;1;Skilled;1;Yes;male;single;1
+10;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2069;No Savings Account;1-3 years;2;None;1;26;Ownership;2;Skilled;1;No;male;married/widowed;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1374;Less than 100 DM;1-3 years;1;None;2;36;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+6;No Credits Taken / All Credits Paid Back Duly;Radio/TV;426;Less than 100 DM;more than 6 years;4;None;4;39;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+12;All Credits at This Bank Paid Back Duly;Radio/TV;409;More than 1000 DM;1-3 years;3;None;3;42;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+7;Existing Credits Paid Back Duly Till Now;Radio/TV;2415;Less than 100 DM;1-3 years;3;Guarantor;2;34;Ownership;1;Skilled;1;Yes;male;single;1
+60;Delay in Paying Off in the Past;Business;6836;Less than 100 DM;more than 6 years;3;None;4;63;Ownership;2;Skilled;1;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;Business;1913;More than 1000 DM;less than 1 year;3;None;3;36;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4020;Less than 100 DM;1-3 years;2;None;2;27;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;New car;5866;100-500 DM;1-3 years;2;None;2;30;Ownership;2;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Business;1264;No Savings Account;more than 6 years;4;None;4;57;Rented;1;Unskilled - Resident;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1474;Less than 100 DM;less than 1 year;4;None;1;33;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+45;Critical Account / Other Credits Existing at Other Bank;Radio/TV;4746;Less than 100 DM;less than 1 year;4;None;2;25;Ownership;2;Unskilled - Resident;1;Yes;male;single;2
+48;Critical Account / Other Credits Existing at Other Bank;Education;6110;Less than 100 DM;1-3 years;1;None;3;31;Free Housing;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;2100;Less than 100 DM;1-3 years;4;Co-applicant;2;37;Ownership;1;Skilled;1;Yes;male;single;2
+10;Existing Credits Paid Back Duly Till Now;Domestic appliances;1225;Less than 100 DM;1-3 years;2;None;2;37;Ownership;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;458;Less than 100 DM;1-3 years;4;None;3;24;Ownership;1;Skilled;1;Yes;male;single;1
+30;Existing Credits Paid Back Duly Till Now;Radio/TV;2333;500-1000 DM;more than 6 years;4;None;2;30;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1158;500-1000 DM;1-3 years;3;None;1;26;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+18;Delay in Paying Off in the Past;Repairs;6204;Less than 100 DM;1-3 years;2;None;4;44;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+30;Critical Account / Other Credits Existing at Other Bank;Used car;6187;100-500 DM;4-6 years;1;None;4;24;Rented;2;Skilled;1;Yes;male;married/widowed;1
+48;Critical Account / Other Credits Existing at Other Bank;Used car;6143;Less than 100 DM;more than 6 years;4;None;4;58;Free Housing;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+11;Critical Account / Other Credits Existing at Other Bank;New car;1393;Less than 100 DM;less than 1 year;4;None;4;35;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;2299;500-1000 DM;more than 6 years;4;None;4;39;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Used car;1352;500-1000 DM;Unemployed;1;None;2;23;Rented;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+11;Critical Account / Other Credits Existing at Other Bank;New car;7228;Less than 100 DM;1-3 years;1;None;4;39;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2073;100-500 DM;1-3 years;4;Co-applicant;2;28;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;Furniture/Equipment;2333;No Savings Account;less than 1 year;4;None;2;29;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+27;Delay in Paying Off in the Past;Used car;5965;Less than 100 DM;more than 6 years;1;None;2;30;Ownership;2;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1262;Less than 100 DM;1-3 years;3;None;2;25;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Used car;3378;No Savings Account;1-3 years;2;None;1;31;Ownership;1;Skilled;1;Yes;male;single;1
+36;Delay in Paying Off in the Past;New car;2225;Less than 100 DM;more than 6 years;4;None;4;57;Free Housing;2;Skilled;1;Yes;male;single;2
+6;All Credits at This Bank Paid Back Duly;New car;783;No Savings Account;1-3 years;1;Guarantor;2;26;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;6468;No Savings Account;Unemployed;2;None;1;52;Ownership;1;Highly Skilled;1;Yes;male;single;2
+36;Critical Account / Other Credits Existing at Other Bank;Radio/TV;9566;Less than 100 DM;1-3 years;2;None;2;31;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;New car;1961;Less than 100 DM;more than 6 years;3;None;2;23;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;6229;Less than 100 DM;less than 1 year;4;Co-applicant;4;23;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;Business;1391;Less than 100 DM;1-3 years;2;None;1;27;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1537;No Savings Account;more than 6 years;4;Guarantor;4;50;Ownership;2;Skilled;1;Yes;male;single;1
+36;No Credits Taken / All Credits Paid Back Duly;Business;1953;Less than 100 DM;more than 6 years;4;None;4;61;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+48;No Credits Taken / All Credits Paid Back Duly;Business;14421;Less than 100 DM;1-3 years;2;None;2;25;Ownership;1;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3181;Less than 100 DM;less than 1 year;4;None;4;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+27;Existing Credits Paid Back Duly Till Now;Repairs;5190;No Savings Account;more than 6 years;4;None;4;48;Ownership;4;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2171;Less than 100 DM;less than 1 year;2;None;2;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;New car;1007;More than 1000 DM;1-3 years;4;None;1;22;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Education;1819;Less than 100 DM;1-3 years;4;None;4;37;Free Housing;1;Skilled;1;Yes;male;single;2
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;2394;No Savings Account;1-3 years;4;None;4;25;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Used car;8133;Less than 100 DM;1-3 years;1;None;2;30;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+7;Critical Account / Other Credits Existing at Other Bank;Radio/TV;730;No Savings Account;more than 6 years;4;None;2;46;Rented;2;Unskilled - Resident;1;Yes;male;single;1
+8;Critical Account / Other Credits Existing at Other Bank;Used car;1164;Less than 100 DM;more than 6 years;3;None;4;51;Free Housing;2;Highly Skilled;2;Yes;male;single;1
+42;Critical Account / Other Credits Existing at Other Bank;Business;5954;Less than 100 DM;4-6 years;2;None;1;41;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Education;1977;No Savings Account;more than 6 years;4;None;4;40;Ownership;1;Highly Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Used car;1526;Less than 100 DM;more than 6 years;4;None;4;66;Free Housing;2;Highly Skilled;1;Yes;male;single;1
+42;Existing Credits Paid Back Duly Till Now;Radio/TV;3965;Less than 100 DM;less than 1 year;4;None;3;34;Ownership;1;Skilled;1;Yes;male;single;2
+11;Delay in Paying Off in the Past;Radio/TV;4771;Less than 100 DM;4-6 years;2;None;4;51;Ownership;1;Skilled;1;Yes;male;single;1
+54;No Credits Taken / All Credits Paid Back Duly;Used car;9436;No Savings Account;1-3 years;2;None;2;39;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3832;Less than 100 DM;less than 1 year;2;None;1;22;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;5943;No Savings Account;less than 1 year;1;None;1;44;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;1213;500-1000 DM;more than 6 years;4;None;3;47;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Business;1568;100-500 DM;1-3 years;3;None;4;24;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Used car;1755;Less than 100 DM;more than 6 years;4;Guarantor;4;58;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+10;Existing Credits Paid Back Duly Till Now;Radio/TV;2315;Less than 100 DM;more than 6 years;3;None;4;52;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Business;1412;Less than 100 DM;1-3 years;4;Guarantor;2;29;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1295;Less than 100 DM;less than 1 year;4;None;1;27;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Education;12612;100-500 DM;1-3 years;1;None;4;47;Free Housing;1;Skilled;2;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;New car;2249;100-500 DM;4-6 years;4;None;3;30;Ownership;1;Highly Skilled;2;Yes;male;single;1
+12;No Credits Taken / All Credits Paid Back Duly;Repairs;1108;Less than 100 DM;4-6 years;4;None;3;28;Ownership;2;Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;618;Less than 100 DM;more than 6 years;4;None;4;56;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Used car;1409;Less than 100 DM;more than 6 years;4;None;3;54;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;797;No Savings Account;more than 6 years;4;None;3;33;Ownership;1;Unskilled - Resident;2;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3617;No Savings Account;more than 6 years;4;Co-applicant;4;20;Rented;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;1318;More than 1000 DM;more than 6 years;4;None;4;54;Ownership;1;Skilled;1;Yes;male;single;1
+54;No Credits Taken / All Credits Paid Back Duly;Business;15945;Less than 100 DM;less than 1 year;3;None;4;58;Rented;1;Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Education;2012;No Savings Account;4-6 years;4;None;2;61;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Business;2622;100-500 DM;1-3 years;4;None;4;34;Ownership;1;Skilled;1;Yes;male;single;1
+36;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2337;Less than 100 DM;more than 6 years;4;None;4;36;Ownership;1;Skilled;1;Yes;male;single;1
+20;Delay in Paying Off in the Past;Used car;7057;No Savings Account;4-6 years;3;None;4;36;Rented;2;Highly Skilled;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1469;100-500 DM;more than 6 years;4;None;4;41;Rented;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;2323;Less than 100 DM;4-6 years;4;None;4;24;Rented;1;Skilled;1;Yes;male;single;1
+6;Delay in Paying Off in the Past;Radio/TV;932;Less than 100 DM;1-3 years;3;None;2;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+9;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1919;Less than 100 DM;4-6 years;4;None;3;35;Rented;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Used car;2445;No Savings Account;less than 1 year;2;None;4;26;Rented;1;Skilled;1;Yes;male;married/widowed;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;11938;Less than 100 DM;1-3 years;2;Co-applicant;3;39;Ownership;2;Highly Skilled;2;Yes;male;single;2
+18;All Credits at This Bank Paid Back Duly;New car;6458;Less than 100 DM;more than 6 years;2;None;4;39;Ownership;2;Highly Skilled;2;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;New car;6078;Less than 100 DM;4-6 years;2;None;2;32;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;7721;No Savings Account;less than 1 year;1;None;2;30;Ownership;1;Skilled;1;No;female;divorced/separated/married;1
+14;Existing Credits Paid Back Duly Till Now;Business;1410;500-1000 DM;more than 6 years;1;None;2;35;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+6;Delay in Paying Off in the Past;Business;1449;100-500 DM;more than 6 years;1;None;2;31;Ownership;2;Skilled;2;Yes;male;divorced/separated;1
+15;Existing Credits Paid Back Duly Till Now;Education;392;Less than 100 DM;less than 1 year;4;None;4;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;New car;6260;Less than 100 DM;4-6 years;3;None;3;28;Rented;1;Unskilled - Resident;1;Yes;male;single;1
+36;Critical Account / Other Credits Existing at Other Bank;New car;7855;Less than 100 DM;1-3 years;4;None;2;25;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1680;500-1000 DM;more than 6 years;3;None;1;35;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+48;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3578;No Savings Account;more than 6 years;4;None;1;47;Ownership;1;Skilled;1;Yes;male;single;1
+42;Existing Credits Paid Back Duly Till Now;Radio/TV;7174;No Savings Account;4-6 years;4;None;3;30;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+10;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2132;No Savings Account;less than 1 year;2;Co-applicant;3;27;Rented;2;Skilled;1;No;female;divorced/separated/married;1
+33;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;4281;500-1000 DM;1-3 years;1;None;4;23;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;2366;500-1000 DM;4-6 years;3;None;3;36;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;1
+21;Existing Credits Paid Back Duly Till Now;Radio/TV;1835;Less than 100 DM;1-3 years;3;None;2;25;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;3868;Less than 100 DM;more than 6 years;4;None;2;41;Rented;2;Highly Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1768;Less than 100 DM;1-3 years;3;None;2;24;Rented;1;Unskilled - Resident;1;Yes;male;single;1
+10;Critical Account / Other Credits Existing at Other Bank;New car;781;Less than 100 DM;more than 6 years;4;None;4;63;Free Housing;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1924;No Savings Account;less than 1 year;4;None;3;27;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;2121;Less than 100 DM;1-3 years;4;None;2;30;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;701;Less than 100 DM;1-3 years;4;None;2;40;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Repairs;639;Less than 100 DM;1-3 years;4;None;2;30;Ownership;1;Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Used car;1860;Less than 100 DM;Unemployed;4;None;2;34;Ownership;2;Highly Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;3499;Less than 100 DM;1-3 years;3;Co-applicant;2;29;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+48;Existing Credits Paid Back Duly Till Now;New car;8487;No Savings Account;4-6 years;1;None;2;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Delay in Paying Off in the Past;Education;6887;Less than 100 DM;1-3 years;4;None;3;29;Ownership;1;Skilled;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2708;Less than 100 DM;less than 1 year;2;None;3;27;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1984;Less than 100 DM;1-3 years;4;None;4;47;Free Housing;2;Skilled;1;Yes;male;single;1
+60;Existing Credits Paid Back Duly Till Now;Radio/TV;10144;100-500 DM;4-6 years;2;None;4;21;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1240;No Savings Account;more than 6 years;4;None;2;38;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+27;Delay in Paying Off in the Past;Used car;8613;More than 1000 DM;1-3 years;2;None;2;27;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;766;500-1000 DM;1-3 years;4;None;3;66;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2728;No Savings Account;4-6 years;4;Guarantor;2;35;Ownership;3;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1881;Less than 100 DM;1-3 years;2;None;2;44;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;New car;709;More than 1000 DM;less than 1 year;2;None;2;27;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;No;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;4795;Less than 100 DM;less than 1 year;4;None;1;30;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+27;Existing Credits Paid Back Duly Till Now;Radio/TV;3416;Less than 100 DM;1-3 years;3;None;2;27;Ownership;1;Highly Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2462;Less than 100 DM;1-3 years;2;None;2;22;Ownership;1;Skilled;1;Yes;male;single;2
+21;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2288;Less than 100 DM;less than 1 year;4;None;4;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;All Credits at This Bank Paid Back Duly;Business;3566;100-500 DM;4-6 years;4;None;2;30;Ownership;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;860;Less than 100 DM;more than 6 years;1;None;4;39;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;682;100-500 DM;4-6 years;4;None;3;51;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;5371;Less than 100 DM;1-3 years;3;Guarantor;2;28;Ownership;2;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1582;More than 1000 DM;more than 6 years;4;None;4;46;Ownership;2;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;1346;100-500 DM;more than 6 years;2;None;4;42;Free Housing;1;Skilled;2;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;Radio/TV;1924;Less than 100 DM;1-3 years;1;None;4;38;Ownership;1;Skilled;1;No;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;5848;Less than 100 DM;1-3 years;4;None;1;24;Ownership;1;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;7758;More than 1000 DM;more than 6 years;2;None;4;29;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;Business;6967;100-500 DM;4-6 years;4;None;4;36;Rented;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1282;Less than 100 DM;1-3 years;2;None;4;20;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Critical Account / Other Credits Existing at Other Bank;Repairs;1288;100-500 DM;more than 6 years;3;Guarantor;4;48;Ownership;2;Skilled;2;No;male;single;1
+12;All Credits at This Bank Paid Back Duly;retraining;339;Less than 100 DM;more than 6 years;4;None;1;45;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;New car;3512;100-500 DM;4-6 years;2;None;3;38;Ownership;2;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1898;No Savings Account;1-3 years;1;None;2;34;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2872;100-500 DM;more than 6 years;3;None;4;36;Ownership;1;Skilled;2;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;1055;Less than 100 DM;less than 1 year;4;None;1;30;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;Domestic appliances;1262;500-1000 DM;4-6 years;4;None;3;36;Ownership;2;Skilled;1;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;New car;7308;Less than 100 DM;Unemployed;2;None;4;70;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;New car;909;500-1000 DM;more than 6 years;4;None;4;36;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2978;500-1000 DM;1-3 years;1;None;2;32;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1131;Less than 100 DM;Unemployed;4;None;2;33;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+11;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1577;More than 1000 DM;less than 1 year;4;None;1;20;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3972;Less than 100 DM;4-6 years;2;None;4;25;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Business;1935;Less than 100 DM;more than 6 years;4;None;4;31;Ownership;2;Skilled;1;Yes;male;divorced/separated;2
+15;No Credits Taken / All Credits Paid Back Duly;New car;950;Less than 100 DM;more than 6 years;4;None;3;33;Rented;2;Skilled;2;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;763;Less than 100 DM;1-3 years;4;None;1;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;Furniture/Equipment;2064;Less than 100 DM;Unemployed;3;None;2;34;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+8;Existing Credits Paid Back Duly Till Now;Radio/TV;1414;Less than 100 DM;1-3 years;4;Guarantor;2;33;Ownership;1;Skilled;1;No;male;single;1
+21;Delay in Paying Off in the Past;Education;3414;Less than 100 DM;less than 1 year;2;None;1;26;Ownership;2;Skilled;1;Yes;male;single;2
+30;All Credits at This Bank Paid Back Duly;Used car;7485;No Savings Account;Unemployed;4;None;1;53;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2577;Less than 100 DM;1-3 years;2;None;1;42;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;338;500-1000 DM;more than 6 years;4;None;4;52;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1963;Less than 100 DM;4-6 years;4;None;2;31;Rented;2;Highly Skilled;2;Yes;male;single;1
+21;Critical Account / Other Credits Existing at Other Bank;New car;571;Less than 100 DM;more than 6 years;4;None;4;65;Ownership;2;Skilled;1;Yes;male;single;1
+36;Delay in Paying Off in the Past;Business;9572;Less than 100 DM;less than 1 year;1;None;1;28;Ownership;2;Skilled;1;Yes;male;divorced/separated;2
+36;Delay in Paying Off in the Past;Business;4455;Less than 100 DM;1-3 years;2;None;2;30;Ownership;2;Highly Skilled;1;Yes;male;divorced/separated;2
+21;All Credits at This Bank Paid Back Duly;New car;1647;No Savings Account;1-3 years;4;None;2;40;Ownership;2;Unskilled - Resident;2;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3777;More than 1000 DM;1-3 years;4;None;4;50;Ownership;1;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;884;Less than 100 DM;more than 6 years;4;None;4;36;Ownership;1;Skilled;2;Yes;male;single;2
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1360;Less than 100 DM;1-3 years;4;None;2;31;Ownership;2;Skilled;1;Yes;male;single;1
+9;All Credits at This Bank Paid Back Duly;Used car;5129;Less than 100 DM;more than 6 years;2;None;4;74;Free Housing;1;Highly Skilled;2;Yes;female;divorced/separated/married;2
+16;Critical Account / Other Credits Existing at Other Bank;New car;1175;Less than 100 DM;Unemployed;2;None;3;68;Free Housing;3;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;674;100-500 DM;4-6 years;4;None;1;20;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+18;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;3244;Less than 100 DM;1-3 years;1;None;4;33;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Business;4591;More than 1000 DM;1-3 years;2;None;3;54;Ownership;3;Highly Skilled;1;Yes;male;single;2
+48;No Credits Taken / All Credits Paid Back Duly;Business;3844;100-500 DM;4-6 years;4;None;4;34;Free Housing;1;Unskilled - Resident;2;Yes;male;single;2
+27;Existing Credits Paid Back Duly Till Now;Business;3915;Less than 100 DM;1-3 years;4;None;2;36;Ownership;1;Skilled;2;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;2108;Less than 100 DM;4-6 years;2;None;2;29;Rented;1;Skilled;1;Yes;male;married/widowed;1
+45;Existing Credits Paid Back Duly Till Now;Radio/TV;3031;100-500 DM;1-3 years;4;Guarantor;4;21;Rented;1;Skilled;1;Yes;male;single;2
+9;Critical Account / Other Credits Existing at Other Bank;Education;1501;Less than 100 DM;more than 6 years;2;None;3;34;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1382;Less than 100 DM;1-3 years;1;None;1;28;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;951;100-500 DM;less than 1 year;4;None;4;27;Rented;4;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Used car;2760;No Savings Account;more than 6 years;4;None;4;36;Free Housing;1;Skilled;1;Yes;male;single;1
+18;Delay in Paying Off in the Past;Furniture/Equipment;4297;Less than 100 DM;more than 6 years;4;None;3;40;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;2
+9;Critical Account / Other Credits Existing at Other Bank;Education;936;500-1000 DM;more than 6 years;4;None;2;52;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;1168;Less than 100 DM;1-3 years;4;None;3;27;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+27;Delay in Paying Off in the Past;Business;5117;Less than 100 DM;4-6 years;3;None;4;26;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;retraining;902;Less than 100 DM;4-6 years;4;None;4;21;Rented;1;Skilled;1;Yes;male;married/widowed;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;1495;Less than 100 DM;more than 6 years;4;None;1;38;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+30;Critical Account / Other Credits Existing at Other Bank;Used car;10623;Less than 100 DM;more than 6 years;3;None;4;38;Free Housing;3;Highly Skilled;2;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1935;Less than 100 DM;more than 6 years;4;None;4;43;Ownership;3;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Domestic appliances;1424;Less than 100 DM;4-6 years;4;None;3;26;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Business;6568;Less than 100 DM;1-3 years;2;None;2;21;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Used car;1413;More than 1000 DM;4-6 years;3;None;2;55;Ownership;1;Skilled;1;No;male;single;1
+9;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3074;No Savings Account;1-3 years;1;None;2;33;Ownership;2;Skilled;2;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;3835;No Savings Account;more than 6 years;2;None;4;45;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+27;No Credits Taken / All Credits Paid Back Duly;Business;5293;Less than 100 DM;Unemployed;2;None;4;50;Ownership;2;Skilled;1;Yes;male;single;2
+30;Delay in Paying Off in the Past;Business;1908;Less than 100 DM;more than 6 years;4;None;4;66;Ownership;1;Highly Skilled;1;Yes;male;single;2
+36;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3342;No Savings Account;more than 6 years;4;None;2;51;Ownership;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;retraining;932;No Savings Account;4-6 years;1;None;3;39;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+18;No Credits Taken / All Credits Paid Back Duly;Business;3104;Less than 100 DM;4-6 years;3;None;1;31;Ownership;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;3913;Less than 100 DM;1-3 years;2;None;2;23;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3021;Less than 100 DM;1-3 years;2;None;2;24;Rented;1;Unskilled - Resident;1;Yes;male;divorced/separated;1
+10;Existing Credits Paid Back Duly Till Now;New car;1364;Less than 100 DM;1-3 years;2;None;4;64;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;625;Less than 100 DM;less than 1 year;4;Guarantor;1;26;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Education;1200;No Savings Account;1-3 years;4;None;4;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;707;Less than 100 DM;1-3 years;4;None;2;30;Ownership;2;Skilled;1;Yes;male;single;1
+24;Delay in Paying Off in the Past;Business;2978;No Savings Account;1-3 years;4;None;4;32;Ownership;2;Skilled;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Used car;4657;Less than 100 DM;1-3 years;3;None;2;30;Ownership;1;Skilled;1;Yes;male;single;1
+36;No Credits Taken / All Credits Paid Back Duly;Repairs;2613;Less than 100 DM;1-3 years;4;None;2;27;Ownership;2;Skilled;1;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;10961;More than 1000 DM;4-6 years;1;Co-applicant;2;27;Ownership;2;Skilled;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;7865;Less than 100 DM;more than 6 years;4;None;4;53;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1478;Less than 100 DM;4-6 years;4;None;2;22;Ownership;1;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3149;Less than 100 DM;less than 1 year;4;None;1;22;Free Housing;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;4210;Less than 100 DM;1-3 years;4;None;2;26;Ownership;1;Skilled;1;Yes;male;single;2
+9;Existing Credits Paid Back Duly Till Now;New car;2507;500-1000 DM;more than 6 years;2;None;4;51;Free Housing;1;Unskilled - Resident;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2141;100-500 DM;4-6 years;3;None;1;35;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;866;Less than 100 DM;1-3 years;4;Guarantor;2;25;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+4;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1544;Less than 100 DM;4-6 years;2;None;1;42;Ownership;3;Unskilled - Resident;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1823;Less than 100 DM;Unemployed;4;None;2;30;Ownership;1;Highly Skilled;2;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;New car;14555;No Savings Account;Unemployed;1;None;2;23;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;2
+21;Existing Credits Paid Back Duly Till Now;Business;2767;100-500 DM;more than 6 years;4;None;2;61;Rented;2;Unskilled - Resident;1;Yes;male;divorced/separated;2
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1291;Less than 100 DM;1-3 years;4;None;2;35;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+30;Existing Credits Paid Back Duly Till Now;Radio/TV;2522;Less than 100 DM;more than 6 years;1;Guarantor;3;39;Ownership;1;Skilled;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;915;No Savings Account;more than 6 years;4;None;2;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;1595;Less than 100 DM;4-6 years;3;None;2;51;Ownership;1;Skilled;2;Yes;male;single;1
+48;No Credits Taken / All Credits Paid Back Duly;Used car;4605;Less than 100 DM;more than 6 years;3;None;4;24;Free Housing;2;Skilled;2;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Business;1185;Less than 100 DM;1-3 years;3;None;2;27;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;All Credits at This Bank Paid Back Duly;retraining;3447;500-1000 DM;1-3 years;4;None;3;35;Ownership;1;Unskilled - Resident;2;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Business;1258;Less than 100 DM;4-6 years;4;None;1;25;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;717;Less than 100 DM;more than 6 years;4;None;4;52;Ownership;3;Skilled;1;Yes;male;single;1
+6;No Credits Taken / All Credits Paid Back Duly;New car;1204;100-500 DM;1-3 years;4;None;1;35;Rented;1;Skilled;1;No;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1925;Less than 100 DM;1-3 years;2;None;2;26;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;433;Less than 100 DM;Unemployed;3;Co-applicant;4;22;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+6;Critical Account / Other Credits Existing at Other Bank;New car;666;More than 1000 DM;4-6 years;3;None;4;39;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2251;Less than 100 DM;1-3 years;1;None;2;46;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+30;Existing Credits Paid Back Duly Till Now;New car;2150;Less than 100 DM;1-3 years;4;Guarantor;2;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Delay in Paying Off in the Past;Furniture/Equipment;4151;100-500 DM;1-3 years;2;None;3;35;Ownership;2;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2030;No Savings Account;4-6 years;2;None;1;24;Ownership;1;Skilled;1;Yes;male;single;1
+60;Delay in Paying Off in the Past;Radio/TV;7418;No Savings Account;1-3 years;1;None;1;27;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2684;Less than 100 DM;1-3 years;4;None;2;35;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+12;All Credits at This Bank Paid Back Duly;Radio/TV;2149;Less than 100 DM;1-3 years;4;None;1;29;Free Housing;1;Skilled;1;Yes;male;divorced/separated;2
+15;Existing Credits Paid Back Duly Till Now;Used car;3812;100-500 DM;less than 1 year;1;None;4;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+11;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1154;100-500 DM;Unemployed;4;None;4;57;Ownership;3;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1657;Less than 100 DM;1-3 years;2;None;2;27;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1603;Less than 100 DM;more than 6 years;4;None;4;55;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;5302;Less than 100 DM;more than 6 years;2;None;4;36;Free Housing;3;Highly Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Education;2748;Less than 100 DM;more than 6 years;2;None;4;57;Free Housing;3;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+10;Critical Account / Other Credits Existing at Other Bank;New car;1231;Less than 100 DM;more than 6 years;3;None;4;32;Ownership;2;Unskilled - Resident;2;No;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;802;Less than 100 DM;more than 6 years;4;None;3;37;Ownership;1;Skilled;2;Yes;male;single;2
+36;Critical Account / Other Credits Existing at Other Bank;Business;6304;No Savings Account;more than 6 years;4;None;4;36;Ownership;2;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1533;Less than 100 DM;less than 1 year;4;None;3;38;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+14;Existing Credits Paid Back Duly Till Now;New car;8978;Less than 100 DM;more than 6 years;1;None;4;45;Ownership;1;Highly Skilled;1;No;male;divorced/separated;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;999;No Savings Account;more than 6 years;4;None;2;25;Ownership;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;New car;2662;No Savings Account;4-6 years;4;None;3;32;Ownership;1;Skilled;1;No;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1402;500-1000 DM;4-6 years;3;None;4;37;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;All Credits at This Bank Paid Back Duly;New car;12169;No Savings Account;Unemployed;4;Co-applicant;4;36;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;3060;Less than 100 DM;4-6 years;4;None;4;28;Ownership;2;Skilled;1;Yes;male;single;2
+30;Existing Credits Paid Back Duly Till Now;Repairs;11998;Less than 100 DM;less than 1 year;1;None;1;34;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;2
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;2697;Less than 100 DM;1-3 years;1;None;2;32;Ownership;1;Skilled;2;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2404;Less than 100 DM;1-3 years;2;None;2;26;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1262;No Savings Account;more than 6 years;2;None;4;49;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4611;Less than 100 DM;less than 1 year;1;None;4;32;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1901;100-500 DM;1-3 years;4;None;4;29;Rented;1;Highly Skilled;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Used car;3368;More than 1000 DM;more than 6 years;3;None;4;23;Rented;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1574;Less than 100 DM;1-3 years;4;None;2;50;Ownership;1;Skilled;1;Yes;male;single;1
+18;All Credits at This Bank Paid Back Duly;Radio/TV;1445;No Savings Account;4-6 years;4;None;4;49;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1520;No Savings Account;more than 6 years;4;None;4;63;Ownership;1;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;New car;3878;100-500 DM;less than 1 year;4;None;2;37;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+47;Existing Credits Paid Back Duly Till Now;New car;10722;Less than 100 DM;less than 1 year;1;None;1;35;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+48;Existing Credits Paid Back Duly Till Now;Used car;4788;Less than 100 DM;4-6 years;4;None;3;26;Ownership;1;Skilled;2;Yes;male;single;1
+48;Delay in Paying Off in the Past;Used car;7582;100-500 DM;Unemployed;2;None;4;31;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1092;Less than 100 DM;1-3 years;4;Guarantor;4;49;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;Radio/TV;1024;Less than 100 DM;less than 1 year;4;None;4;48;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+12;Existing Credits Paid Back Duly Till Now;Business;1076;Less than 100 DM;1-3 years;2;None;2;26;Ownership;1;Skilled;1;No;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Used car;9398;Less than 100 DM;less than 1 year;1;None;4;28;Rented;1;Highly Skilled;1;Yes;male;married/widowed;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;6419;Less than 100 DM;more than 6 years;2;None;4;44;Free Housing;2;Highly Skilled;2;Yes;female;divorced/separated/married;1
+42;Critical Account / Other Credits Existing at Other Bank;Used car;4796;Less than 100 DM;more than 6 years;4;None;4;56;Free Housing;1;Skilled;1;Yes;male;single;1
+48;Critical Account / Other Credits Existing at Other Bank;Business;7629;No Savings Account;more than 6 years;4;None;2;46;Ownership;2;Highly Skilled;2;Yes;male;divorced/separated;1
+48;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;9960;Less than 100 DM;less than 1 year;1;None;2;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Used car;4675;No Savings Account;less than 1 year;1;None;4;20;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+10;Existing Credits Paid Back Duly Till Now;New car;1287;No Savings Account;more than 6 years;4;Co-applicant;2;45;Ownership;1;Unskilled - Resident;1;No;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2515;Less than 100 DM;1-3 years;3;None;4;43;Ownership;1;Skilled;1;Yes;male;single;1
+21;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2745;More than 1000 DM;4-6 years;3;None;2;32;Ownership;2;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;New car;672;Less than 100 DM;Unemployed;1;None;4;54;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+36;No Credits Taken / All Credits Paid Back Duly;Radio/TV;3804;Less than 100 DM;1-3 years;4;None;1;42;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;New car;1344;No Savings Account;4-6 years;4;None;2;37;Ownership;2;Unskilled - Resident;2;Yes;male;single;2
+10;Critical Account / Other Credits Existing at Other Bank;New car;1038;Less than 100 DM;4-6 years;4;Co-applicant;3;49;Ownership;2;Skilled;1;Yes;male;single;1
+48;Critical Account / Other Credits Existing at Other Bank;New car;10127;500-1000 DM;1-3 years;2;None;2;44;Free Housing;1;Skilled;1;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1543;More than 1000 DM;1-3 years;4;None;2;33;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+30;Existing Credits Paid Back Duly Till Now;Used car;4811;No Savings Account;4-6 years;2;None;4;24;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;727;100-500 DM;less than 1 year;4;None;3;33;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;2
+8;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1237;Less than 100 DM;1-3 years;3;None;4;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;New car;276;Less than 100 DM;1-3 years;4;None;4;22;Rented;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+48;Existing Credits Paid Back Duly Till Now;Used car;5381;No Savings Account;Unemployed;3;None;4;40;Free Housing;1;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;5511;100-500 DM;1-3 years;4;None;1;25;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3749;Less than 100 DM;less than 1 year;2;None;4;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;New car;685;Less than 100 DM;4-6 years;2;None;3;25;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;2
+4;Existing Credits Paid Back Duly Till Now;New car;1494;No Savings Account;less than 1 year;1;None;2;29;Ownership;1;Unskilled - Resident;2;No;male;single;1
+36;All Credits at This Bank Paid Back Duly;Furniture/Equipment;2746;Less than 100 DM;more than 6 years;4;None;4;31;Ownership;1;Skilled;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;708;Less than 100 DM;1-3 years;2;Guarantor;3;38;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4351;No Savings Account;1-3 years;1;None;4;48;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Education;701;Less than 100 DM;1-3 years;4;None;2;32;Ownership;2;Skilled;1;Yes;male;single;1
+15;Delay in Paying Off in the Past;Furniture/Equipment;3643;Less than 100 DM;more than 6 years;1;None;4;27;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+30;Critical Account / Other Credits Existing at Other Bank;New car;4249;Less than 100 DM;Unemployed;4;None;2;28;Ownership;2;Highly Skilled;1;Yes;male;married/widowed;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1938;Less than 100 DM;less than 1 year;4;None;3;32;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+24;Existing Credits Paid Back Duly Till Now;Used car;2910;Less than 100 DM;4-6 years;2;None;1;34;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2659;More than 1000 DM;1-3 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;1028;Less than 100 DM;1-3 years;4;None;3;36;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+8;Critical Account / Other Credits Existing at Other Bank;New car;3398;Less than 100 DM;4-6 years;1;None;4;39;Ownership;2;Unskilled - Resident;1;No;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;5801;No Savings Account;more than 6 years;2;None;4;49;Rented;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1525;More than 1000 DM;4-6 years;4;None;3;34;Ownership;1;Skilled;2;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;4473;Less than 100 DM;more than 6 years;4;None;2;31;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;1068;Less than 100 DM;more than 6 years;4;None;4;28;Ownership;1;Skilled;2;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;6615;Less than 100 DM;Unemployed;2;None;4;75;Free Housing;2;Highly Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Education;1864;100-500 DM;1-3 years;4;None;2;30;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+60;Existing Credits Paid Back Duly Till Now;New car;7408;100-500 DM;less than 1 year;4;None;2;24;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+48;Critical Account / Other Credits Existing at Other Bank;Used car;11590;100-500 DM;1-3 years;2;None;4;24;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+24;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;4110;Less than 100 DM;more than 6 years;3;None;4;23;Rented;2;Skilled;2;Yes;male;single;2
+6;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3384;Less than 100 DM;1-3 years;1;None;4;44;Rented;1;Highly Skilled;1;Yes;male;divorced/separated;2
+13;Existing Credits Paid Back Duly Till Now;Radio/TV;2101;Less than 100 DM;less than 1 year;2;Guarantor;4;23;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;Domestic appliances;1275;No Savings Account;1-3 years;4;None;2;24;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4169;Less than 100 DM;1-3 years;4;None;4;28;Ownership;1;Skilled;1;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1521;Less than 100 DM;1-3 years;4;None;2;31;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;1
+24;Critical Account / Other Credits Existing at Other Bank;Education;5743;Less than 100 DM;less than 1 year;2;None;4;24;Free Housing;2;Skilled;1;Yes;female;divorced/separated/married;1
+21;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3599;Less than 100 DM;4-6 years;1;None;4;26;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;3213;500-1000 DM;less than 1 year;1;None;3;25;Rented;1;Skilled;1;Yes;male;married/widowed;1
+18;Existing Credits Paid Back Duly Till Now;Business;4439;Less than 100 DM;more than 6 years;1;Co-applicant;1;33;Ownership;1;Highly Skilled;1;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;New car;3949;Less than 100 DM;less than 1 year;1;Guarantor;1;37;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1459;Less than 100 DM;1-3 years;4;None;2;43;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+13;Critical Account / Other Credits Existing at Other Bank;Radio/TV;882;Less than 100 DM;less than 1 year;4;Guarantor;4;23;Ownership;2;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3758;500-1000 DM;Unemployed;1;None;4;23;Rented;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+6;Delay in Paying Off in the Past;Business;1743;100-500 DM;1-3 years;1;None;2;34;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+9;Critical Account / Other Credits Existing at Other Bank;Education;1136;More than 1000 DM;more than 6 years;4;None;3;32;Free Housing;2;Skilled;2;Yes;male;single;2
+9;Existing Credits Paid Back Duly Till Now;Domestic appliances;1236;Less than 100 DM;less than 1 year;1;None;4;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;959;Less than 100 DM;1-3 years;1;None;2;29;Ownership;1;Skilled;1;No;female;divorced/separated/married;2
+18;Critical Account / Other Credits Existing at Other Bank;Used car;3229;No Savings Account;Unemployed;2;None;4;38;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;No Credits Taken / All Credits Paid Back Duly;Radio/TV;6199;Less than 100 DM;1-3 years;4;None;2;28;Rented;2;Skilled;1;Yes;male;single;2
+10;Existing Credits Paid Back Duly Till Now;Education;727;500-1000 DM;more than 6 years;4;None;4;46;Free Housing;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1246;Less than 100 DM;less than 1 year;4;None;2;23;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2331;No Savings Account;more than 6 years;1;Co-applicant;4;49;Ownership;1;Skilled;1;Yes;male;single;1
+36;Delay in Paying Off in the Past;Radio/TV;4463;Less than 100 DM;1-3 years;4;None;2;26;Ownership;2;Highly Skilled;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;776;Less than 100 DM;1-3 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2406;Less than 100 DM;4-6 years;4;None;4;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+18;Existing Credits Paid Back Duly Till Now;Education;1239;No Savings Account;1-3 years;4;None;4;61;Free Housing;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;3399;No Savings Account;more than 6 years;2;None;3;37;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Delay in Paying Off in the Past;New car;2247;Less than 100 DM;1-3 years;2;None;2;36;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1766;Less than 100 DM;1-3 years;1;None;2;21;Rented;1;Skilled;1;Yes;male;married/widowed;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2473;Less than 100 DM;Unemployed;4;None;1;25;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Business;1542;Less than 100 DM;4-6 years;2;None;4;36;Ownership;1;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Used car;3850;Less than 100 DM;4-6 years;3;None;1;27;Ownership;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3650;Less than 100 DM;less than 1 year;1;None;4;22;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3446;Less than 100 DM;more than 6 years;4;None;2;42;Ownership;1;Skilled;2;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3001;Less than 100 DM;4-6 years;2;None;4;40;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;New car;3079;No Savings Account;1-3 years;4;None;4;36;Ownership;1;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;6070;Less than 100 DM;more than 6 years;3;None;4;33;Ownership;2;Skilled;1;Yes;male;single;1
+10;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2146;Less than 100 DM;less than 1 year;1;None;3;23;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+60;Critical Account / Other Credits Existing at Other Bank;New car;13756;No Savings Account;more than 6 years;2;None;4;63;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+60;All Credits at This Bank Paid Back Duly;Used car;14782;100-500 DM;more than 6 years;3;None;4;60;Free Housing;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+48;All Credits at This Bank Paid Back Duly;Business;7685;Less than 100 DM;4-6 years;2;Guarantor;4;37;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+18;Delay in Paying Off in the Past;Radio/TV;2320;Less than 100 DM;Unemployed;2;None;3;34;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+7;Delay in Paying Off in the Past;Radio/TV;846;No Savings Account;more than 6 years;3;None;4;36;Free Housing;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;New car;14318;Less than 100 DM;more than 6 years;4;None;2;57;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+6;Critical Account / Other Credits Existing at Other Bank;New car;362;100-500 DM;1-3 years;4;None;4;52;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+20;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2212;No Savings Account;4-6 years;4;None;4;39;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Used car;12976;Less than 100 DM;Unemployed;3;None;4;38;Free Housing;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+22;Existing Credits Paid Back Duly Till Now;New car;1283;No Savings Account;4-6 years;4;None;4;25;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;New car;1330;Less than 100 DM;less than 1 year;4;None;1;26;Ownership;1;Skilled;1;Yes;male;single;1
+30;Delay in Paying Off in the Past;Business;4272;100-500 DM;1-3 years;2;None;2;26;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2238;Less than 100 DM;1-3 years;2;None;1;25;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1126;No Savings Account;less than 1 year;4;None;2;21;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;7374;Less than 100 DM;Unemployed;4;None;4;40;Ownership;2;Highly Skilled;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Business;2326;500-1000 DM;1-3 years;2;None;4;27;Ownership;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Business;1449;Less than 100 DM;4-6 years;3;None;2;27;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;New car;1820;Less than 100 DM;1-3 years;2;None;2;30;Ownership;1;Highly Skilled;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;983;More than 1000 DM;less than 1 year;1;None;4;19;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;New car;3249;Less than 100 DM;4-6 years;2;None;4;39;Free Housing;1;Highly Skilled;2;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1957;Less than 100 DM;4-6 years;1;None;4;31;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+9;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2406;Less than 100 DM;Unemployed;2;None;3;31;Ownership;1;Highly Skilled;1;Yes;male;single;1
+39;Delay in Paying Off in the Past;Education;11760;100-500 DM;4-6 years;2;None;3;32;Rented;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2578;Less than 100 DM;Unemployed;3;None;4;55;Free Housing;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2348;Less than 100 DM;1-3 years;3;None;2;46;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;New car;1223;Less than 100 DM;more than 6 years;1;None;1;46;Rented;2;Skilled;1;Yes;male;divorced/separated;2
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1516;More than 1000 DM;1-3 years;4;None;1;43;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1473;Less than 100 DM;less than 1 year;3;None;4;39;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+18;Critical Account / Other Credits Existing at Other Bank;Business;1887;No Savings Account;1-3 years;4;None;4;28;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+24;Delay in Paying Off in the Past;Business;8648;Less than 100 DM;less than 1 year;2;None;2;27;Ownership;2;Skilled;1;Yes;male;single;2
+14;Delay in Paying Off in the Past;New car;802;Less than 100 DM;1-3 years;4;None;2;27;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+18;Delay in Paying Off in the Past;New car;2899;No Savings Account;more than 6 years;4;None;4;43;Ownership;1;Skilled;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2039;Less than 100 DM;less than 1 year;1;None;1;22;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;2197;No Savings Account;4-6 years;4;None;4;43;Ownership;2;Skilled;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;1053;Less than 100 DM;less than 1 year;4;None;2;27;Ownership;1;Skilled;1;No;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3235;500-1000 DM;more than 6 years;3;None;2;26;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;939;500-1000 DM;4-6 years;4;None;2;28;Ownership;3;Skilled;1;Yes;male;married/widowed;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1967;Less than 100 DM;more than 6 years;4;None;4;20;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+33;Critical Account / Other Credits Existing at Other Bank;Used car;7253;Less than 100 DM;4-6 years;3;None;2;35;Ownership;2;Highly Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Business;2292;Less than 100 DM;Unemployed;4;None;2;42;Ownership;2;Highly Skilled;1;Yes;male;single;2
+10;Existing Credits Paid Back Duly Till Now;New car;1597;500-1000 DM;1-3 years;3;None;2;40;Rented;1;Unskilled - Resident;2;No;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1381;No Savings Account;1-3 years;4;None;2;35;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+36;Critical Account / Other Credits Existing at Other Bank;Used car;5842;Less than 100 DM;more than 6 years;2;None;2;35;Ownership;2;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;2579;Less than 100 DM;less than 1 year;4;None;1;33;Ownership;1;Unskilled - Resident;2;Yes;male;single;2
+18;Delay in Paying Off in the Past;Education;8471;No Savings Account;1-3 years;1;None;2;23;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+21;Existing Credits Paid Back Duly Till Now;New car;2782;500-1000 DM;4-6 years;1;None;2;31;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;New car;1042;No Savings Account;1-3 years;4;None;2;33;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+15;Existing Credits Paid Back Duly Till Now;New car;3186;More than 1000 DM;4-6 years;2;None;3;20;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Used car;2028;No Savings Account;1-3 years;4;None;2;30;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;958;Less than 100 DM;4-6 years;2;None;3;47;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+21;Delay in Paying Off in the Past;Furniture/Equipment;1591;100-500 DM;4-6 years;4;None;3;34;Ownership;2;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2762;No Savings Account;more than 6 years;1;None;2;25;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+18;Existing Credits Paid Back Duly Till Now;Used car;2779;Less than 100 DM;1-3 years;1;None;3;21;Rented;1;Skilled;1;Yes;male;married/widowed;1
+28;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2743;Less than 100 DM;more than 6 years;4;None;2;29;Ownership;2;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1149;More than 1000 DM;1-3 years;4;None;3;46;Ownership;2;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1313;Less than 100 DM;more than 6 years;1;None;4;20;Ownership;1;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Repairs;1190;Less than 100 DM;Unemployed;2;None;4;55;Free Housing;3;Unemployed / Unskilled  - Non-Resident;2;Yes;female;divorced/separated/married;2
+5;Existing Credits Paid Back Duly Till Now;Business;3448;Less than 100 DM;4-6 years;1;None;4;74;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;11328;Less than 100 DM;1-3 years;2;Co-applicant;3;29;Ownership;2;Highly Skilled;1;Yes;male;single;2
+6;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1872;Less than 100 DM;Unemployed;4;None;4;36;Free Housing;3;Highly Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Repairs;2058;Less than 100 DM;1-3 years;4;None;2;33;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2136;Less than 100 DM;1-3 years;3;None;2;25;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1484;No Savings Account;1-3 years;2;None;1;25;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+6;Existing Credits Paid Back Duly Till Now;Repairs;660;500-1000 DM;4-6 years;2;None;4;23;Rented;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+24;Critical Account / Other Credits Existing at Other Bank;New car;1287;More than 1000 DM;more than 6 years;4;None;4;37;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+42;Critical Account / Other Credits Existing at Other Bank;Repairs;3394;Less than 100 DM;Unemployed;4;Co-applicant;4;65;Ownership;2;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;1
+12;All Credits at This Bank Paid Back Duly;Business;609;Less than 100 DM;less than 1 year;4;None;1;26;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;New car;1884;Less than 100 DM;more than 6 years;4;None;4;39;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1620;Less than 100 DM;1-3 years;2;Co-applicant;3;30;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+20;Delay in Paying Off in the Past;Used car;2629;Less than 100 DM;1-3 years;2;None;3;29;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Education;719;Less than 100 DM;more than 6 years;4;None;4;41;Ownership;1;Unskilled - Resident;2;Yes;male;single;2
+48;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;5096;Less than 100 DM;1-3 years;2;None;3;30;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+9;Critical Account / Other Credits Existing at Other Bank;Education;1244;No Savings Account;more than 6 years;4;None;4;41;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;New car;1842;Less than 100 DM;less than 1 year;4;None;4;34;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+7;Existing Credits Paid Back Duly Till Now;Radio/TV;2576;Less than 100 DM;1-3 years;2;Guarantor;2;35;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1424;No Savings Account;more than 6 years;3;None;4;55;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+15;Delay in Paying Off in the Past;Repairs;1512;More than 1000 DM;1-3 years;3;None;3;61;Ownership;2;Skilled;1;Yes;male;married/widowed;2
+36;Critical Account / Other Credits Existing at Other Bank;Used car;11054;No Savings Account;1-3 years;4;None;2;30;Ownership;1;Highly Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;518;Less than 100 DM;1-3 years;3;None;1;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;2759;Less than 100 DM;more than 6 years;2;None;4;34;Ownership;2;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;2670;Less than 100 DM;more than 6 years;4;None;4;35;Ownership;1;Highly Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;4817;Less than 100 DM;4-6 years;2;Co-applicant;3;31;Ownership;1;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Used car;2679;Less than 100 DM;less than 1 year;4;None;1;29;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+11;Critical Account / Other Credits Existing at Other Bank;New car;3905;Less than 100 DM;1-3 years;2;None;2;36;Rented;2;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Used car;3386;Less than 100 DM;more than 6 years;3;None;4;35;Free Housing;1;Skilled;1;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;Domestic appliances;343;Less than 100 DM;less than 1 year;4;None;1;27;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;4594;Less than 100 DM;less than 1 year;3;None;2;32;Ownership;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3620;Less than 100 DM;1-3 years;1;Guarantor;2;37;Ownership;1;Skilled;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;New car;1721;Less than 100 DM;less than 1 year;2;None;3;36;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3017;Less than 100 DM;less than 1 year;3;None;1;34;Rented;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;retraining;754;No Savings Account;more than 6 years;4;None;4;38;Ownership;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Business;1950;Less than 100 DM;4-6 years;4;None;1;34;Ownership;2;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;2924;Less than 100 DM;1-3 years;3;Guarantor;4;63;Ownership;1;Skilled;2;Yes;male;single;1
+24;Delay in Paying Off in the Past;Radio/TV;1659;Less than 100 DM;less than 1 year;4;None;2;29;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+48;Delay in Paying Off in the Past;Radio/TV;7238;No Savings Account;more than 6 years;3;None;3;32;Ownership;2;Skilled;2;Yes;male;single;1
+33;Delay in Paying Off in the Past;Business;2764;Less than 100 DM;1-3 years;2;None;2;26;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;Used car;4679;Less than 100 DM;4-6 years;3;None;3;35;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3092;100-500 DM;less than 1 year;3;None;2;22;Rented;1;Skilled;1;Yes;male;married/widowed;2
+6;Existing Credits Paid Back Duly Till Now;Education;448;Less than 100 DM;less than 1 year;4;None;4;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;New car;654;Less than 100 DM;1-3 years;4;None;3;28;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;retraining;1238;No Savings Account;Unemployed;4;None;4;36;Ownership;1;Highly Skilled;2;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1245;Less than 100 DM;1-3 years;4;None;2;33;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+18;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;3114;Less than 100 DM;less than 1 year;1;None;4;26;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+39;Existing Credits Paid Back Duly Till Now;Used car;2569;500-1000 DM;1-3 years;4;None;4;24;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;5152;Less than 100 DM;4-6 years;4;None;2;25;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Business;1037;100-500 DM;4-6 years;3;None;4;39;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1478;Less than 100 DM;more than 6 years;4;None;4;44;Ownership;2;Skilled;2;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3573;Less than 100 DM;1-3 years;1;None;1;23;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;New car;1201;Less than 100 DM;less than 1 year;4;None;1;26;Ownership;1;Skilled;1;Yes;male;single;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3622;More than 1000 DM;more than 6 years;4;None;4;57;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+15;Delay in Paying Off in the Past;Furniture/Equipment;960;More than 1000 DM;4-6 years;3;None;2;30;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;1163;500-1000 DM;1-3 years;4;None;4;44;Ownership;1;Skilled;1;Yes;male;single;1
+6;Delay in Paying Off in the Past;New car;1209;Less than 100 DM;Unemployed;4;None;4;47;Ownership;1;Highly Skilled;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;3077;Less than 100 DM;1-3 years;2;None;4;52;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;3757;Less than 100 DM;more than 6 years;4;Co-applicant;4;62;Free Housing;1;Skilled;1;Yes;female;divorced/separated/married;1
+10;Existing Credits Paid Back Duly Till Now;New car;1418;100-500 DM;1-3 years;3;None;2;35;Rented;1;Unskilled - Resident;1;No;male;single;1
+6;Existing Credits Paid Back Duly Till Now;New car;3518;Less than 100 DM;1-3 years;2;Guarantor;3;26;Rented;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1934;Less than 100 DM;more than 6 years;2;None;2;26;Ownership;2;Skilled;1;Yes;male;single;1
+27;No Credits Taken / All Credits Paid Back Duly;Business;8318;Less than 100 DM;more than 6 years;2;None;4;42;Free Housing;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1237;100-500 DM;1-3 years;1;None;1;27;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;368;No Savings Account;more than 6 years;4;None;4;38;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;2122;Less than 100 DM;1-3 years;3;None;2;39;Rented;2;Unskilled - Resident;2;No;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2996;No Savings Account;1-3 years;2;None;4;20;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;9034;100-500 DM;less than 1 year;4;Co-applicant;1;29;Rented;1;Highly Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1585;Less than 100 DM;4-6 years;4;None;3;40;Ownership;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1301;Less than 100 DM;more than 6 years;4;Guarantor;2;32;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;1323;100-500 DM;more than 6 years;2;None;4;28;Ownership;2;Skilled;2;Yes;male;divorced/separated;1
+24;Existing Credits Paid Back Duly Till Now;New car;3123;Less than 100 DM;less than 1 year;4;None;1;27;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+36;Existing Credits Paid Back Duly Till Now;Used car;5493;Less than 100 DM;more than 6 years;2;None;4;42;Free Housing;1;Skilled;2;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1126;100-500 DM;more than 6 years;2;None;4;49;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1216;100-500 DM;less than 1 year;4;None;4;38;Ownership;2;Skilled;2;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;New car;1207;Less than 100 DM;less than 1 year;4;None;4;24;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+10;Existing Credits Paid Back Duly Till Now;New car;1309;No Savings Account;1-3 years;4;Guarantor;4;27;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+15;Critical Account / Other Credits Existing at Other Bank;Used car;2360;500-1000 DM;1-3 years;2;None;2;36;Ownership;1;Skilled;1;Yes;male;single;1
+15;All Credits at This Bank Paid Back Duly;New car;6850;100-500 DM;Unemployed;1;None;2;34;Ownership;1;Highly Skilled;2;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1413;Less than 100 DM;1-3 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+39;Existing Credits Paid Back Duly Till Now;Used car;8588;100-500 DM;more than 6 years;4;None;2;45;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;759;Less than 100 DM;4-6 years;4;None;2;26;Ownership;1;Skilled;1;Yes;male;single;2
+36;Existing Credits Paid Back Duly Till Now;Used car;4686;Less than 100 DM;1-3 years;2;None;2;32;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Business;2687;Less than 100 DM;4-6 years;2;None;4;26;Rented;1;Skilled;1;Yes;male;single;1
+12;Delay in Paying Off in the Past;Radio/TV;585;Less than 100 DM;1-3 years;4;Co-applicant;4;20;Rented;2;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;New car;2255;No Savings Account;less than 1 year;4;None;1;54;Ownership;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;609;Less than 100 DM;4-6 years;4;None;3;37;Ownership;2;Skilled;1;No;female;divorced/separated/married;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;1361;Less than 100 DM;less than 1 year;2;None;4;40;Ownership;1;Unskilled - Resident;2;No;male;single;1
+36;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;7127;Less than 100 DM;less than 1 year;2;None;4;23;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+6;Existing Credits Paid Back Duly Till Now;New car;1203;100-500 DM;more than 6 years;3;None;2;43;Ownership;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;700;No Savings Account;more than 6 years;4;None;4;36;Free Housing;2;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Repairs;5507;Less than 100 DM;more than 6 years;3;None;4;44;Free Housing;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;3190;Less than 100 DM;1-3 years;2;None;2;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+48;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;7119;Less than 100 DM;1-3 years;3;None;4;53;Free Housing;2;Skilled;2;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Used car;3488;100-500 DM;4-6 years;3;None;4;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1113;Less than 100 DM;1-3 years;4;Guarantor;4;26;Ownership;1;Unskilled - Resident;2;Yes;female;divorced/separated/married;1
+26;Existing Credits Paid Back Duly Till Now;Used car;7966;Less than 100 DM;less than 1 year;2;None;3;30;Ownership;2;Skilled;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Education;1532;100-500 DM;1-3 years;4;None;3;31;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+4;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1503;Less than 100 DM;4-6 years;2;None;1;42;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;2302;Less than 100 DM;1-3 years;4;None;4;31;Rented;1;Skilled;1;Yes;male;divorced/separated;2
+6;Existing Credits Paid Back Duly Till Now;New car;662;Less than 100 DM;less than 1 year;3;None;4;41;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Education;2273;Less than 100 DM;4-6 years;3;None;1;32;Ownership;2;Skilled;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;New car;2631;100-500 DM;1-3 years;2;None;4;28;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+12;Delay in Paying Off in the Past;Used car;1503;Less than 100 DM;1-3 years;4;None;4;41;Rented;1;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1311;100-500 DM;4-6 years;4;None;3;26;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3105;No Savings Account;less than 1 year;4;None;2;25;Ownership;2;Skilled;1;Yes;male;single;1
+21;Critical Account / Other Credits Existing at Other Bank;Education;2319;Less than 100 DM;less than 1 year;2;None;1;33;Rented;1;Skilled;1;Yes;male;divorced/separated;2
+6;Existing Credits Paid Back Duly Till Now;New car;1374;No Savings Account;Unemployed;4;None;3;75;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3612;Less than 100 DM;more than 6 years;3;None;4;37;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;Existing Credits Paid Back Duly Till Now;New car;7763;Less than 100 DM;more than 6 years;4;None;4;42;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3049;Less than 100 DM;less than 1 year;1;None;1;45;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1534;Less than 100 DM;less than 1 year;1;None;1;23;Rented;1;Skilled;1;Yes;male;married/widowed;2
+24;Delay in Paying Off in the Past;New car;2032;Less than 100 DM;more than 6 years;4;None;4;60;Free Housing;2;Skilled;1;Yes;male;single;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;6350;No Savings Account;more than 6 years;4;None;4;31;Ownership;1;Skilled;1;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2864;Less than 100 DM;1-3 years;2;None;1;34;Ownership;1;Unskilled - Resident;2;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;1255;Less than 100 DM;more than 6 years;4;None;4;61;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+24;Delay in Paying Off in the Past;New car;1333;Less than 100 DM;Unemployed;4;None;2;43;Free Housing;2;Skilled;2;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;New car;2022;Less than 100 DM;1-3 years;4;None;4;37;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1552;Less than 100 DM;4-6 years;3;None;1;32;Ownership;1;Skilled;2;Yes;male;single;1
+12;All Credits at This Bank Paid Back Duly;Radio/TV;626;Less than 100 DM;1-3 years;4;None;4;24;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+48;Critical Account / Other Credits Existing at Other Bank;Used car;8858;No Savings Account;4-6 years;2;None;1;35;Free Housing;2;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Repairs;996;No Savings Account;4-6 years;4;None;4;23;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+6;All Credits at This Bank Paid Back Duly;Radio/TV;1750;500-1000 DM;more than 6 years;2;None;4;45;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;6999;Less than 100 DM;4-6 years;1;Guarantor;1;34;Ownership;2;Skilled;1;Yes;male;married/widowed;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;1995;100-500 DM;less than 1 year;4;None;1;27;Ownership;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Education;1199;Less than 100 DM;4-6 years;4;None;4;67;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1331;Less than 100 DM;less than 1 year;2;None;1;22;Ownership;1;Skilled;1;Yes;male;single;2
+18;No Credits Taken / All Credits Paid Back Duly;New car;2278;100-500 DM;less than 1 year;3;None;3;28;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+21;No Credits Taken / All Credits Paid Back Duly;New car;5003;No Savings Account;1-3 years;1;None;4;29;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;2
+24;All Credits at This Bank Paid Back Duly;Furniture/Equipment;3552;Less than 100 DM;4-6 years;3;None;4;27;Ownership;1;Skilled;1;Yes;male;single;2
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1928;Less than 100 DM;less than 1 year;2;None;2;31;Ownership;2;Unskilled - Resident;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Used car;2964;No Savings Account;more than 6 years;4;None;4;49;Free Housing;1;Skilled;2;Yes;male;single;1
+24;All Credits at This Bank Paid Back Duly;Radio/TV;1546;Less than 100 DM;4-6 years;4;Guarantor;4;24;Rented;1;Unskilled - Resident;1;Yes;male;single;2
+6;Delay in Paying Off in the Past;Radio/TV;683;Less than 100 DM;less than 1 year;2;None;1;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;New car;12389;No Savings Account;1-3 years;1;None;4;37;Free Housing;1;Skilled;1;Yes;male;single;2
+24;Delay in Paying Off in the Past;Business;4712;No Savings Account;1-3 years;4;None;2;37;Ownership;2;Highly Skilled;1;Yes;male;single;1
+24;Delay in Paying Off in the Past;Radio/TV;1553;100-500 DM;4-6 years;3;None;2;23;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;New car;1372;Less than 100 DM;4-6 years;2;None;3;36;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2578;More than 1000 DM;more than 6 years;2;None;2;34;Ownership;1;Skilled;1;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;3979;No Savings Account;4-6 years;4;None;1;41;Ownership;2;Skilled;2;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;6758;Less than 100 DM;1-3 years;3;None;2;31;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3234;Less than 100 DM;less than 1 year;4;None;4;23;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;5954;Less than 100 DM;4-6 years;3;Co-applicant;2;38;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;5433;No Savings Account;Unemployed;2;None;4;26;Rented;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;Business;806;Less than 100 DM;1-3 years;4;None;4;22;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1082;Less than 100 DM;more than 6 years;4;None;4;27;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2788;Less than 100 DM;4-6 years;2;Co-applicant;3;24;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2930;Less than 100 DM;4-6 years;2;None;1;27;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Education;1927;No Savings Account;1-3 years;3;None;2;33;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;New car;2820;Less than 100 DM;less than 1 year;4;None;4;27;Ownership;2;Skilled;1;Yes;male;divorced/separated;2
+24;Existing Credits Paid Back Duly Till Now;retraining;937;Less than 100 DM;less than 1 year;4;None;3;27;Ownership;2;Unskilled - Resident;1;Yes;male;married/widowed;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;1056;Less than 100 DM;more than 6 years;3;Guarantor;3;30;Ownership;2;Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;New car;3124;Less than 100 DM;less than 1 year;1;None;3;49;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1388;Less than 100 DM;1-3 years;4;None;2;26;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Repairs;2384;Less than 100 DM;less than 1 year;4;None;1;33;Rented;1;Unskilled - Resident;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;New car;2133;No Savings Account;more than 6 years;4;None;4;52;Free Housing;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2039;Less than 100 DM;1-3 years;1;None;4;20;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Critical Account / Other Credits Existing at Other Bank;New car;2799;Less than 100 DM;1-3 years;2;None;2;36;Rented;2;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1289;Less than 100 DM;1-3 years;4;Guarantor;1;21;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Domestic appliances;1217;Less than 100 DM;1-3 years;4;None;3;47;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;2
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2246;Less than 100 DM;more than 6 years;3;None;3;60;Ownership;2;Skilled;1;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;385;Less than 100 DM;4-6 years;4;None;3;58;Ownership;4;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;New car;1965;No Savings Account;1-3 years;4;None;4;42;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+21;Existing Credits Paid Back Duly Till Now;Business;1572;More than 1000 DM;more than 6 years;4;None;4;36;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;New car;2718;Less than 100 DM;1-3 years;3;None;4;20;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+24;All Credits at This Bank Paid Back Duly;Used car;1358;No Savings Account;more than 6 years;4;None;3;40;Ownership;1;Highly Skilled;1;Yes;male;single;2
+6;All Credits at This Bank Paid Back Duly;New car;931;100-500 DM;less than 1 year;1;None;1;32;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;New car;1442;Less than 100 DM;4-6 years;4;None;4;23;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+24;No Credits Taken / All Credits Paid Back Duly;Business;4241;Less than 100 DM;1-3 years;1;None;4;36;Ownership;3;Unskilled - Resident;1;Yes;male;single;2
+18;Critical Account / Other Credits Existing at Other Bank;New car;2775;Less than 100 DM;4-6 years;2;None;2;31;Ownership;2;Skilled;1;Yes;male;single;2
+24;Delay in Paying Off in the Past;Business;3863;Less than 100 DM;1-3 years;1;None;2;32;Free Housing;1;Skilled;1;Yes;male;single;1
+7;Existing Credits Paid Back Duly Till Now;Radio/TV;2329;Less than 100 DM;less than 1 year;1;Guarantor;1;45;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;918;Less than 100 DM;1-3 years;4;None;1;30;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;All Credits at This Bank Paid Back Duly;Education;1837;Less than 100 DM;4-6 years;4;None;4;34;Free Housing;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3349;Less than 100 DM;1-3 years;4;None;2;28;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;2
+10;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1275;Less than 100 DM;less than 1 year;4;None;2;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;All Credits at This Bank Paid Back Duly;Furniture/Equipment;2828;500-1000 DM;1-3 years;4;None;4;22;Ownership;1;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Business;4526;Less than 100 DM;1-3 years;3;None;2;74;Ownership;1;Highly Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;2671;100-500 DM;1-3 years;4;Co-applicant;4;50;Free Housing;1;Skilled;1;Yes;female;divorced/separated/married;2
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;2051;Less than 100 DM;less than 1 year;4;None;1;33;Ownership;1;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Used car;1300;No Savings Account;more than 6 years;4;None;4;45;Free Housing;1;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Domestic appliances;741;100-500 DM;Unemployed;4;None;3;22;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+10;Existing Credits Paid Back Duly Till Now;New car;1240;100-500 DM;more than 6 years;1;None;4;48;Free Housing;1;Unskilled - Resident;2;Yes;female;divorced/separated/married;2
+21;Existing Credits Paid Back Duly Till Now;Radio/TV;3357;More than 1000 DM;less than 1 year;4;None;2;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;All Credits at This Bank Paid Back Duly;Used car;3632;Less than 100 DM;1-3 years;1;Guarantor;4;22;Rented;1;Skilled;1;No;female;divorced/separated/married;1
+18;Delay in Paying Off in the Past;Furniture/Equipment;1808;Less than 100 DM;4-6 years;4;None;1;22;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+48;No Credits Taken / All Credits Paid Back Duly;Business;12204;No Savings Account;1-3 years;2;None;2;48;Ownership;1;Highly Skilled;1;Yes;male;single;1
+60;Delay in Paying Off in the Past;Radio/TV;9157;No Savings Account;1-3 years;2;None;2;27;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;3676;Less than 100 DM;1-3 years;1;None;3;37;Rented;3;Skilled;2;Yes;male;single;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3441;100-500 DM;1-3 years;2;Co-applicant;4;21;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;New car;640;Less than 100 DM;1-3 years;4;None;2;49;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;1
+21;Critical Account / Other Credits Existing at Other Bank;Business;3652;Less than 100 DM;4-6 years;2;None;3;27;Ownership;2;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;1530;Less than 100 DM;1-3 years;3;None;2;32;Ownership;2;Skilled;1;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;Business;3914;No Savings Account;1-3 years;4;None;2;38;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1858;Less than 100 DM;less than 1 year;4;None;1;22;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;2600;Less than 100 DM;1-3 years;4;None;4;65;Free Housing;2;Skilled;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;1979;No Savings Account;more than 6 years;4;None;2;35;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2116;Less than 100 DM;1-3 years;2;None;2;41;Ownership;1;Skilled;1;Yes;male;single;1
+9;All Credits at This Bank Paid Back Duly;New car;1437;100-500 DM;4-6 years;2;None;3;29;Ownership;1;Skilled;1;Yes;male;single;2
+42;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;4042;500-1000 DM;1-3 years;4;None;4;36;Ownership;2;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Education;3832;No Savings Account;more than 6 years;1;None;4;64;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3660;Less than 100 DM;1-3 years;2;None;4;28;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;All Credits at This Bank Paid Back Duly;Furniture/Equipment;1553;Less than 100 DM;1-3 years;4;None;3;44;Ownership;1;Skilled;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;1444;No Savings Account;less than 1 year;4;None;1;23;Ownership;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1980;Less than 100 DM;less than 1 year;2;Co-applicant;2;19;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;New car;1355;Less than 100 DM;less than 1 year;3;None;4;25;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Education;1393;Less than 100 DM;more than 6 years;4;None;4;47;Ownership;3;Skilled;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1376;500-1000 DM;4-6 years;4;None;1;28;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+60;Delay in Paying Off in the Past;Radio/TV;15653;Less than 100 DM;4-6 years;2;None;4;21;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1493;Less than 100 DM;less than 1 year;4;None;3;34;Ownership;1;Skilled;2;Yes;female;divorced/separated/married;1
+42;Delay in Paying Off in the Past;Radio/TV;4370;Less than 100 DM;4-6 years;3;None;2;26;Ownership;2;Skilled;2;Yes;male;single;2
+18;Existing Credits Paid Back Duly Till Now;Education;750;Less than 100 DM;Unemployed;4;None;1;27;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;2
+15;Existing Credits Paid Back Duly Till Now;Repairs;1308;Less than 100 DM;more than 6 years;4;None;4;38;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Education;4623;100-500 DM;1-3 years;3;None;2;40;Ownership;1;Highly Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1851;Less than 100 DM;4-6 years;4;Guarantor;2;33;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1880;Less than 100 DM;4-6 years;4;None;1;32;Ownership;2;Highly Skilled;1;Yes;male;married/widowed;1
+36;Delay in Paying Off in the Past;Business;7980;No Savings Account;less than 1 year;4;None;4;27;Rented;2;Skilled;1;Yes;male;single;2
+30;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;4583;Less than 100 DM;1-3 years;2;Guarantor;2;32;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+12;Existing Credits Paid Back Duly Till Now;New car;1386;500-1000 DM;1-3 years;2;None;2;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;New car;947;Less than 100 DM;4-6 years;4;None;3;38;Free Housing;1;Skilled;2;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Education;684;Less than 100 DM;1-3 years;4;None;4;40;Rented;1;Unskilled - Resident;2;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;Education;7476;Less than 100 DM;4-6 years;4;None;1;50;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1922;Less than 100 DM;1-3 years;4;None;2;37;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;New car;2303;Less than 100 DM;more than 6 years;4;Co-applicant;1;45;Ownership;1;Skilled;1;Yes;male;single;2
+36;Delay in Paying Off in the Past;New car;8086;100-500 DM;more than 6 years;2;None;4;42;Ownership;4;Highly Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;2346;Less than 100 DM;4-6 years;4;None;3;35;Ownership;2;Skilled;1;Yes;male;single;1
+14;Existing Credits Paid Back Duly Till Now;New car;3973;Less than 100 DM;Unemployed;1;None;4;22;Free Housing;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;888;Less than 100 DM;more than 6 years;4;None;4;41;Ownership;1;Unskilled - Resident;2;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;Radio/TV;10222;No Savings Account;4-6 years;4;None;3;37;Ownership;1;Skilled;1;Yes;male;single;1
+30;No Credits Taken / All Credits Paid Back Duly;Business;4221;Less than 100 DM;1-3 years;2;None;1;28;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;6361;Less than 100 DM;more than 6 years;2;None;1;41;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1297;Less than 100 DM;1-3 years;3;None;4;23;Rented;1;Skilled;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;New car;900;No Savings Account;1-3 years;4;None;2;23;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+21;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2241;Less than 100 DM;more than 6 years;4;None;2;50;Ownership;2;Skilled;1;Yes;male;single;1
+6;Delay in Paying Off in the Past;Furniture/Equipment;1050;Less than 100 DM;Unemployed;4;None;1;35;Ownership;2;Highly Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Education;1047;Less than 100 DM;1-3 years;2;None;4;50;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;6314;Less than 100 DM;Unemployed;4;Co-applicant;2;27;Ownership;2;Highly Skilled;1;Yes;male;single;1
+30;All Credits at This Bank Paid Back Duly;Furniture/Equipment;3496;More than 1000 DM;1-3 years;4;None;2;34;Ownership;1;Skilled;2;Yes;male;single;1
+48;All Credits at This Bank Paid Back Duly;Business;3609;Less than 100 DM;1-3 years;1;None;1;27;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;4843;Less than 100 DM;more than 6 years;3;Co-applicant;4;43;Rented;2;Skilled;1;Yes;male;single;2
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3017;Less than 100 DM;more than 6 years;4;None;4;47;Ownership;1;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Business;4139;100-500 DM;1-3 years;3;None;3;27;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Business;5742;100-500 DM;4-6 years;2;None;2;31;Ownership;2;Skilled;1;Yes;male;single;1
+60;Existing Credits Paid Back Duly Till Now;New car;10366;Less than 100 DM;more than 6 years;2;None;4;42;Ownership;1;Highly Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;2080;500-1000 DM;1-3 years;1;None;2;24;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+21;Delay in Paying Off in the Past;Business;2580;500-1000 DM;less than 1 year;4;None;2;41;Ownership;1;Unskilled - Resident;2;Yes;male;single;2
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;4530;Less than 100 DM;4-6 years;4;None;4;26;Rented;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;5150;Less than 100 DM;more than 6 years;4;None;4;33;Ownership;1;Skilled;1;Yes;male;single;1
+72;Existing Credits Paid Back Duly Till Now;Radio/TV;5595;100-500 DM;1-3 years;2;None;2;24;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2384;Less than 100 DM;more than 6 years;4;None;4;64;Rented;1;Unskilled - Resident;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1453;Less than 100 DM;less than 1 year;3;None;1;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;Education;1538;Less than 100 DM;less than 1 year;1;None;2;56;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2279;No Savings Account;1-3 years;4;None;4;37;Free Housing;1;Skilled;1;Yes;male;single;1
+15;Delay in Paying Off in the Past;Radio/TV;1478;Less than 100 DM;1-3 years;4;None;3;33;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;5103;Less than 100 DM;less than 1 year;3;None;3;47;Free Housing;3;Skilled;1;Yes;male;married/widowed;1
+36;Delay in Paying Off in the Past;Business;9857;100-500 DM;4-6 years;1;None;3;31;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+60;Existing Credits Paid Back Duly Till Now;New car;6527;No Savings Account;1-3 years;4;None;4;34;Free Housing;1;Skilled;2;Yes;male;single;1
+10;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1347;No Savings Account;4-6 years;4;None;2;27;Ownership;2;Skilled;1;Yes;male;single;1
+36;Delay in Paying Off in the Past;New car;2862;100-500 DM;more than 6 years;4;None;3;30;Free Housing;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;2753;100-500 DM;more than 6 years;3;Co-applicant;4;35;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;3651;More than 1000 DM;1-3 years;1;None;3;31;Ownership;1;Skilled;2;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;975;Less than 100 DM;1-3 years;2;None;3;25;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+15;Existing Credits Paid Back Duly Till Now;Repairs;2631;100-500 DM;1-3 years;3;None;2;25;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2896;100-500 DM;less than 1 year;2;None;1;29;Ownership;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;4716;No Savings Account;less than 1 year;1;None;3;44;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2284;Less than 100 DM;4-6 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Used car;1236;500-1000 DM;1-3 years;2;None;4;50;Rented;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1103;Less than 100 DM;4-6 years;4;Guarantor;3;29;Ownership;2;Skilled;1;No;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;926;Less than 100 DM;Unemployed;1;None;2;38;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1800;Less than 100 DM;1-3 years;4;None;2;24;Ownership;2;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Education;1905;Less than 100 DM;more than 6 years;4;None;4;40;Rented;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1123;500-1000 DM;1-3 years;4;None;4;29;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+48;Critical Account / Other Credits Existing at Other Bank;Used car;6331;Less than 100 DM;more than 6 years;4;None;4;46;Free Housing;2;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1377;100-500 DM;more than 6 years;4;None;2;47;Free Housing;1;Skilled;1;Yes;female;divorced/separated/married;1
+30;Delay in Paying Off in the Past;Business;2503;100-500 DM;more than 6 years;4;None;2;41;Ownership;2;Skilled;1;Yes;male;single;1
+27;Existing Credits Paid Back Duly Till Now;Business;2528;Less than 100 DM;less than 1 year;4;None;1;32;Ownership;1;Skilled;2;Yes;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;New car;5324;500-1000 DM;more than 6 years;1;None;4;35;Free Housing;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;Existing Credits Paid Back Duly Till Now;New car;6560;100-500 DM;4-6 years;3;None;2;24;Ownership;1;Skilled;1;Yes;male;single;2
+12;No Credits Taken / All Credits Paid Back Duly;Furniture/Equipment;2969;Less than 100 DM;less than 1 year;4;None;3;25;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1206;Less than 100 DM;more than 6 years;4;None;4;25;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;2118;Less than 100 DM;1-3 years;2;None;2;37;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;629;500-1000 DM;more than 6 years;4;None;3;32;Ownership;2;Highly Skilled;1;Yes;male;single;1
+6;All Credits at This Bank Paid Back Duly;Education;1198;Less than 100 DM;more than 6 years;4;None;4;35;Free Housing;1;Skilled;1;Yes;female;divorced/separated/married;2
+21;Existing Credits Paid Back Duly Till Now;Used car;2476;No Savings Account;more than 6 years;4;None;4;46;Ownership;1;Highly Skilled;1;Yes;male;single;1
+9;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1138;Less than 100 DM;1-3 years;4;None;4;25;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+60;Existing Credits Paid Back Duly Till Now;New car;14027;Less than 100 DM;4-6 years;4;None;2;27;Ownership;1;Highly Skilled;1;Yes;male;single;2
+30;Critical Account / Other Credits Existing at Other Bank;Used car;7596;No Savings Account;more than 6 years;1;None;4;63;Ownership;2;Skilled;1;Yes;male;single;1
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3077;No Savings Account;more than 6 years;3;None;2;40;Ownership;2;Skilled;2;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1505;Less than 100 DM;1-3 years;4;None;2;32;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3148;No Savings Account;1-3 years;3;None;2;31;Ownership;2;Skilled;1;Yes;male;single;1
+20;No Credits Taken / All Credits Paid Back Duly;Used car;6148;100-500 DM;more than 6 years;3;None;4;31;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+9;No Credits Taken / All Credits Paid Back Duly;Radio/TV;1337;Less than 100 DM;less than 1 year;4;None;2;34;Ownership;2;Highly Skilled;1;Yes;male;single;2
+6;All Credits at This Bank Paid Back Duly;Education;433;More than 1000 DM;less than 1 year;4;None;2;24;Rented;1;Skilled;2;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;New car;1228;Less than 100 DM;1-3 years;4;None;2;24;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;790;500-1000 DM;1-3 years;4;None;3;66;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+27;Existing Credits Paid Back Duly Till Now;New car;2570;Less than 100 DM;1-3 years;3;None;3;21;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+6;Critical Account / Other Credits Existing at Other Bank;New car;250;More than 1000 DM;1-3 years;2;None;2;41;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1316;500-1000 DM;1-3 years;2;None;2;47;Ownership;2;Unskilled - Resident;1;Yes;male;married/widowed;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1882;Less than 100 DM;1-3 years;4;None;4;25;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+48;All Credits at This Bank Paid Back Duly;Business;6416;Less than 100 DM;more than 6 years;4;None;3;59;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;Business;1275;More than 1000 DM;1-3 years;2;None;4;36;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+24;Delay in Paying Off in the Past;Radio/TV;6403;Less than 100 DM;less than 1 year;1;None;2;33;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1987;Less than 100 DM;1-3 years;2;None;4;21;Rented;1;Unskilled - Resident;2;Yes;male;single;2
+8;Existing Credits Paid Back Duly Till Now;Radio/TV;760;Less than 100 DM;4-6 years;4;Guarantor;2;44;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Used car;2603;More than 1000 DM;1-3 years;2;None;4;28;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+4;Critical Account / Other Credits Existing at Other Bank;New car;3380;Less than 100 DM;4-6 years;1;None;1;37;Ownership;1;Skilled;2;Yes;female;divorced/separated/married;1
+36;All Credits at This Bank Paid Back Duly;Domestic appliances;3990;No Savings Account;less than 1 year;3;None;2;29;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Used car;11560;Less than 100 DM;1-3 years;1;None;4;23;Rented;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+18;Existing Credits Paid Back Duly Till Now;New car;4380;100-500 DM;1-3 years;3;None;4;35;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;6761;Less than 100 DM;4-6 years;1;None;3;45;Ownership;2;Highly Skilled;2;Yes;male;single;1
+30;No Credits Taken / All Credits Paid Back Duly;Business;4280;100-500 DM;1-3 years;4;None;4;26;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+24;All Credits at This Bank Paid Back Duly;New car;2325;100-500 DM;4-6 years;2;None;3;32;Ownership;1;Skilled;1;Yes;male;single;1
+10;All Credits at This Bank Paid Back Duly;Radio/TV;1048;Less than 100 DM;1-3 years;4;None;4;23;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+21;Existing Credits Paid Back Duly Till Now;Radio/TV;3160;No Savings Account;more than 6 years;4;None;3;41;Ownership;1;Skilled;1;Yes;male;single;1
+24;All Credits at This Bank Paid Back Duly;Furniture/Equipment;2483;500-1000 DM;1-3 years;4;None;4;22;Ownership;1;Skilled;1;Yes;male;single;1
+39;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;14179;No Savings Account;4-6 years;4;None;4;30;Ownership;2;Highly Skilled;1;Yes;male;single;1
+13;Critical Account / Other Credits Existing at Other Bank;Business;1797;Less than 100 DM;less than 1 year;3;None;1;28;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;New car;2511;Less than 100 DM;Unemployed;1;None;4;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;New car;1274;Less than 100 DM;less than 1 year;3;None;1;37;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+21;Existing Credits Paid Back Duly Till Now;Used car;5248;No Savings Account;1-3 years;1;None;3;26;Ownership;1;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Used car;3029;Less than 100 DM;4-6 years;2;None;2;33;Ownership;1;Skilled;1;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;428;Less than 100 DM;more than 6 years;2;None;1;49;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;New car;976;Less than 100 DM;less than 1 year;1;None;2;23;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Business;841;100-500 DM;4-6 years;2;None;4;23;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;5771;Less than 100 DM;4-6 years;4;None;2;25;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Delay in Paying Off in the Past;Repairs;1555;More than 1000 DM;more than 6 years;4;None;4;55;Free Housing;2;Skilled;2;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;New car;1285;No Savings Account;4-6 years;4;None;4;32;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+6;Critical Account / Other Credits Existing at Other Bank;New car;1299;Less than 100 DM;1-3 years;1;None;1;74;Ownership;3;Unemployed / Unskilled  - Non-Resident;2;No;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1271;No Savings Account;1-3 years;3;None;4;39;Free Housing;2;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;New car;1393;Less than 100 DM;1-3 years;2;Guarantor;2;31;Ownership;1;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;691;Less than 100 DM;more than 6 years;4;None;3;35;Ownership;2;Skilled;1;Yes;male;single;2
+15;Critical Account / Other Credits Existing at Other Bank;New car;5045;No Savings Account;more than 6 years;1;None;4;59;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2124;Less than 100 DM;1-3 years;4;None;4;24;Rented;2;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;2214;Less than 100 DM;1-3 years;4;None;3;24;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+21;Critical Account / Other Credits Existing at Other Bank;New car;12680;No Savings Account;more than 6 years;4;None;4;30;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;New car;2463;100-500 DM;4-6 years;4;None;3;27;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1155;Less than 100 DM;more than 6 years;3;Guarantor;3;40;Ownership;2;Unskilled - Resident;1;Yes;male;married/widowed;1
+30;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3108;Less than 100 DM;less than 1 year;2;None;4;31;Ownership;1;Unskilled - Resident;1;Yes;male;divorced/separated;2
+10;Existing Credits Paid Back Duly Till Now;Used car;2901;No Savings Account;less than 1 year;1;None;4;31;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3617;Less than 100 DM;more than 6 years;1;None;4;28;Rented;3;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1655;Less than 100 DM;more than 6 years;2;None;4;63;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;2812;No Savings Account;more than 6 years;2;None;4;26;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;Education;8065;Less than 100 DM;1-3 years;3;None;2;25;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+21;Critical Account / Other Credits Existing at Other Bank;Used car;3275;Less than 100 DM;more than 6 years;1;None;4;36;Ownership;1;Highly Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2223;100-500 DM;more than 6 years;4;None;4;52;Ownership;2;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;1480;500-1000 DM;Unemployed;2;None;4;66;Free Housing;3;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1371;No Savings Account;1-3 years;4;None;4;25;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+36;Critical Account / Other Credits Existing at Other Bank;New car;3535;Less than 100 DM;4-6 years;4;None;4;37;Ownership;2;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;3509;Less than 100 DM;4-6 years;4;Guarantor;1;25;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Critical Account / Other Credits Existing at Other Bank;Used car;5711;More than 1000 DM;more than 6 years;4;None;2;38;Ownership;2;Highly Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Repairs;3872;Less than 100 DM;Unemployed;2;None;4;67;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+39;Critical Account / Other Credits Existing at Other Bank;Radio/TV;4933;Less than 100 DM;4-6 years;2;Guarantor;2;25;Ownership;2;Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;New car;1940;More than 1000 DM;more than 6 years;4;None;4;60;Ownership;1;Skilled;1;Yes;male;single;1
+12;No Credits Taken / All Credits Paid Back Duly;retraining;1410;Less than 100 DM;1-3 years;2;None;2;31;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;836;100-500 DM;less than 1 year;4;None;2;23;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+20;Existing Credits Paid Back Duly Till Now;Used car;6468;No Savings Account;Unemployed;1;None;4;60;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;1
+18;Existing Credits Paid Back Duly Till Now;Business;1941;More than 1000 DM;1-3 years;4;None;2;35;Ownership;1;Unskilled - Resident;1;Yes;male;single;1
+22;Existing Credits Paid Back Duly Till Now;Radio/TV;2675;500-1000 DM;more than 6 years;3;None;4;40;Ownership;1;Skilled;1;Yes;male;single;1
+48;Critical Account / Other Credits Existing at Other Bank;Used car;2751;No Savings Account;more than 6 years;4;None;3;38;Ownership;2;Skilled;2;Yes;male;single;1
+48;Delay in Paying Off in the Past;Education;6224;Less than 100 DM;more than 6 years;4;None;4;50;Free Housing;1;Skilled;1;Yes;male;single;2
+40;Critical Account / Other Credits Existing at Other Bank;Education;5998;Less than 100 DM;1-3 years;4;None;3;27;Ownership;1;Skilled;1;Yes;male;single;2
+21;Existing Credits Paid Back Duly Till Now;Business;1188;Less than 100 DM;more than 6 years;2;None;4;39;Ownership;1;Skilled;2;Yes;female;divorced/separated/married;2
+24;Existing Credits Paid Back Duly Till Now;Used car;6313;No Savings Account;more than 6 years;3;None;4;41;Ownership;1;Highly Skilled;2;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1221;No Savings Account;1-3 years;1;None;2;27;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2892;Less than 100 DM;more than 6 years;3;None;4;51;Free Housing;1;Skilled;1;Yes;male;divorced/separated;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3062;500-1000 DM;more than 6 years;4;None;3;32;Rented;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2301;100-500 DM;less than 1 year;2;None;4;22;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Used car;7511;No Savings Account;more than 6 years;1;None;4;51;Free Housing;1;Skilled;2;Yes;male;single;2
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1258;Less than 100 DM;less than 1 year;2;None;4;22;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+24;Delay in Paying Off in the Past;New car;717;No Savings Account;more than 6 years;4;None;4;54;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+9;Existing Credits Paid Back Duly Till Now;New car;1549;No Savings Account;less than 1 year;4;None;2;35;Ownership;1;Unemployed / Unskilled  - Non-Resident;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Education;1597;Less than 100 DM;more than 6 years;4;None;4;54;Free Housing;2;Skilled;2;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1795;Less than 100 DM;more than 6 years;3;Guarantor;4;48;Rented;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+20;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;4272;Less than 100 DM;more than 6 years;1;None;4;24;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;976;No Savings Account;more than 6 years;4;None;4;35;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;7472;No Savings Account;Unemployed;1;None;2;24;Rented;1;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;New car;9271;Less than 100 DM;4-6 years;2;None;1;24;Ownership;1;Skilled;1;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;590;Less than 100 DM;less than 1 year;3;None;3;26;Ownership;1;Unskilled - Resident;1;No;male;married/widowed;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;930;No Savings Account;more than 6 years;4;None;4;65;Ownership;4;Skilled;1;Yes;male;single;1
+42;All Credits at This Bank Paid Back Duly;Used car;9283;Less than 100 DM;Unemployed;1;None;2;55;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+15;No Credits Taken / All Credits Paid Back Duly;New car;1778;Less than 100 DM;less than 1 year;2;None;1;26;Rented;2;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;2
+8;Existing Credits Paid Back Duly Till Now;Business;907;Less than 100 DM;less than 1 year;3;None;2;26;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;484;Less than 100 DM;4-6 years;3;Guarantor;3;28;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+36;Critical Account / Other Credits Existing at Other Bank;Used car;9629;Less than 100 DM;4-6 years;4;None;4;24;Ownership;2;Skilled;1;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;Domestic appliances;3051;Less than 100 DM;1-3 years;3;None;4;54;Ownership;1;Skilled;1;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;New car;3931;Less than 100 DM;4-6 years;4;None;4;46;Free Housing;1;Skilled;2;Yes;male;single;2
+36;Delay in Paying Off in the Past;New car;7432;Less than 100 DM;1-3 years;2;None;2;54;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;Domestic appliances;1338;500-1000 DM;1-3 years;1;None;4;62;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1554;Less than 100 DM;4-6 years;1;None;2;24;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Used car;15857;Less than 100 DM;Unemployed;2;Co-applicant;3;43;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1345;Less than 100 DM;1-3 years;4;None;3;26;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+12;Existing Credits Paid Back Duly Till Now;New car;1101;Less than 100 DM;1-3 years;3;None;2;27;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;3016;Less than 100 DM;1-3 years;3;None;1;24;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2712;Less than 100 DM;more than 6 years;2;None;2;41;Ownership;1;Skilled;2;Yes;male;single;2
+8;Critical Account / Other Credits Existing at Other Bank;New car;731;Less than 100 DM;more than 6 years;4;None;4;47;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3780;Less than 100 DM;less than 1 year;3;None;2;35;Ownership;2;Highly Skilled;1;Yes;male;divorced/separated;1
+21;Critical Account / Other Credits Existing at Other Bank;New car;1602;Less than 100 DM;more than 6 years;4;None;3;30;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+18;Critical Account / Other Credits Existing at Other Bank;New car;3966;Less than 100 DM;more than 6 years;1;None;4;33;Rented;3;Skilled;1;Yes;female;divorced/separated/married;2
+18;No Credits Taken / All Credits Paid Back Duly;Business;4165;Less than 100 DM;1-3 years;2;None;2;36;Ownership;2;Skilled;2;Yes;male;single;2
+36;Existing Credits Paid Back Duly Till Now;Used car;8335;No Savings Account;more than 6 years;3;None;4;47;Free Housing;1;Skilled;1;Yes;male;single;2
+48;Delay in Paying Off in the Past;Business;6681;No Savings Account;1-3 years;4;None;4;38;Free Housing;1;Skilled;2;Yes;male;single;1
+24;Delay in Paying Off in the Past;Business;2375;500-1000 DM;1-3 years;4;None;2;44;Ownership;2;Skilled;2;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;New car;1216;Less than 100 DM;less than 1 year;4;None;3;23;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+45;No Credits Taken / All Credits Paid Back Duly;Business;11816;Less than 100 DM;more than 6 years;2;None;4;29;Rented;2;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;5084;No Savings Account;more than 6 years;2;None;4;42;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;2327;Less than 100 DM;less than 1 year;2;None;3;25;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+12;No Credits Taken / All Credits Paid Back Duly;New car;1082;Less than 100 DM;1-3 years;4;None;4;48;Ownership;2;Skilled;1;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;886;No Savings Account;1-3 years;4;None;2;21;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+4;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;601;Less than 100 DM;less than 1 year;1;None;3;23;Rented;1;Unskilled - Resident;2;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;2957;Less than 100 DM;more than 6 years;4;None;4;63;Ownership;2;Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2611;Less than 100 DM;more than 6 years;4;Co-applicant;3;46;Ownership;2;Skilled;1;Yes;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;5179;Less than 100 DM;4-6 years;4;None;2;29;Ownership;1;Skilled;1;Yes;male;single;2
+21;Delay in Paying Off in the Past;Used car;2993;Less than 100 DM;1-3 years;3;None;2;28;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Repairs;1943;Less than 100 DM;less than 1 year;4;None;4;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;All Credits at This Bank Paid Back Duly;Business;1559;Less than 100 DM;4-6 years;4;None;4;50;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3422;Less than 100 DM;more than 6 years;4;None;4;47;Ownership;3;Skilled;2;Yes;male;single;1
+21;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3976;No Savings Account;4-6 years;2;None;3;35;Ownership;1;Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;New car;6761;No Savings Account;1-3 years;2;None;4;68;Rented;2;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;New car;1249;Less than 100 DM;less than 1 year;4;None;2;28;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1364;Less than 100 DM;4-6 years;3;None;4;59;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;709;Less than 100 DM;more than 6 years;4;None;4;57;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+20;Critical Account / Other Credits Existing at Other Bank;New car;2235;Less than 100 DM;1-3 years;4;Guarantor;2;33;Rented;2;Skilled;1;No;male;married/widowed;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;4042;No Savings Account;4-6 years;3;None;4;43;Ownership;2;Skilled;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1471;Less than 100 DM;1-3 years;4;None;4;35;Free Housing;2;Skilled;1;Yes;male;single;1
+18;All Credits at This Bank Paid Back Duly;New car;1442;Less than 100 DM;4-6 years;4;None;4;32;Free Housing;2;Unskilled - Resident;2;Yes;male;single;2
+36;Delay in Paying Off in the Past;New car;10875;Less than 100 DM;more than 6 years;2;None;2;45;Ownership;2;Skilled;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;1474;100-500 DM;less than 1 year;4;None;3;33;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+10;Existing Credits Paid Back Duly Till Now;retraining;894;No Savings Account;4-6 years;4;None;3;40;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3343;Less than 100 DM;1-3 years;4;None;2;28;Free Housing;1;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;New car;3959;Less than 100 DM;1-3 years;3;None;2;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Existing Credits Paid Back Duly Till Now;New car;3577;100-500 DM;1-3 years;1;Guarantor;2;26;Rented;1;Skilled;2;No;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Used car;5804;More than 1000 DM;1-3 years;4;None;2;27;Ownership;2;Skilled;1;Yes;male;single;1
+18;Delay in Paying Off in the Past;Business;2169;Less than 100 DM;1-3 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;married/widowed;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2439;Less than 100 DM;less than 1 year;4;None;4;35;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+27;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;4526;More than 1000 DM;less than 1 year;4;None;2;32;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2210;Less than 100 DM;1-3 years;2;None;2;25;Rented;1;Unskilled - Resident;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2221;500-1000 DM;1-3 years;2;None;4;20;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;2389;Less than 100 DM;less than 1 year;4;None;1;27;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;3331;Less than 100 DM;more than 6 years;2;None;4;42;Ownership;1;Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Business;7409;No Savings Account;more than 6 years;3;None;2;37;Ownership;2;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;652;Less than 100 DM;more than 6 years;4;None;4;24;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+36;Delay in Paying Off in the Past;Furniture/Equipment;7678;500-1000 DM;4-6 years;2;None;4;40;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+6;Critical Account / Other Credits Existing at Other Bank;New car;1343;Less than 100 DM;more than 6 years;1;None;4;46;Ownership;2;Skilled;2;No;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Business;1382;100-500 DM;4-6 years;4;None;1;26;Ownership;2;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Domestic appliances;874;No Savings Account;less than 1 year;4;None;1;24;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3590;Less than 100 DM;1-3 years;2;Co-applicant;2;29;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+11;Critical Account / Other Credits Existing at Other Bank;New car;1322;More than 1000 DM;1-3 years;4;None;4;40;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+18;All Credits at This Bank Paid Back Duly;Radio/TV;1940;Less than 100 DM;less than 1 year;3;Co-applicant;4;36;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Radio/TV;3595;Less than 100 DM;more than 6 years;4;None;2;28;Ownership;1;Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;New car;1422;Less than 100 DM;less than 1 year;3;None;2;27;Free Housing;1;Highly Skilled;1;Yes;male;single;2
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;6742;No Savings Account;4-6 years;2;None;3;36;Ownership;2;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;7814;Less than 100 DM;4-6 years;3;None;3;38;Ownership;1;Highly Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Used car;9277;No Savings Account;1-3 years;2;None;4;48;Free Housing;1;Skilled;1;Yes;male;divorced/separated;1
+30;Critical Account / Other Credits Existing at Other Bank;New car;2181;No Savings Account;more than 6 years;4;None;4;36;Ownership;2;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1098;Less than 100 DM;Unemployed;4;None;4;65;Ownership;2;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4057;Less than 100 DM;4-6 years;3;None;3;43;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+12;Existing Credits Paid Back Duly Till Now;Education;795;Less than 100 DM;less than 1 year;4;None;4;53;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+24;Critical Account / Other Credits Existing at Other Bank;Business;2825;No Savings Account;4-6 years;4;None;3;34;Ownership;2;Skilled;2;Yes;male;single;1
+48;Existing Credits Paid Back Duly Till Now;Business;15672;Less than 100 DM;1-3 years;2;None;2;23;Ownership;1;Skilled;1;Yes;male;single;2
+36;Critical Account / Other Credits Existing at Other Bank;New car;6614;Less than 100 DM;more than 6 years;4;None;4;34;Ownership;2;Highly Skilled;1;Yes;male;single;1
+28;All Credits at This Bank Paid Back Duly;Used car;7824;No Savings Account;less than 1 year;3;Guarantor;4;40;Rented;2;Skilled;2;Yes;male;single;1
+27;Critical Account / Other Credits Existing at Other Bank;Business;2442;Less than 100 DM;more than 6 years;4;None;4;43;Ownership;4;Highly Skilled;2;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1829;Less than 100 DM;more than 6 years;4;None;4;46;Ownership;2;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;New car;2171;Less than 100 DM;1-3 years;4;None;4;38;Ownership;2;Unskilled - Resident;1;No;male;single;1
+36;Critical Account / Other Credits Existing at Other Bank;Used car;5800;Less than 100 DM;1-3 years;3;None;4;34;Ownership;2;Skilled;1;Yes;male;single;1
+18;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1169;No Savings Account;1-3 years;4;None;3;29;Ownership;2;Skilled;1;Yes;male;single;1
+36;Delay in Paying Off in the Past;Used car;8947;No Savings Account;4-6 years;3;None;2;31;Ownership;1;Highly Skilled;2;Yes;male;single;1
+21;Existing Credits Paid Back Duly Till Now;Radio/TV;2606;Less than 100 DM;less than 1 year;4;None;4;28;Rented;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+12;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1592;More than 1000 DM;4-6 years;3;None;2;35;Ownership;1;Skilled;1;No;female;divorced/separated/married;1
+15;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2186;No Savings Account;4-6 years;1;None;4;33;Rented;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;4153;Less than 100 DM;1-3 years;2;Co-applicant;3;42;Ownership;1;Skilled;1;Yes;male;single;2
+16;Critical Account / Other Credits Existing at Other Bank;New car;2625;Less than 100 DM;more than 6 years;2;Guarantor;4;43;Rented;1;Skilled;1;Yes;male;single;2
+20;Critical Account / Other Credits Existing at Other Bank;New car;3485;No Savings Account;less than 1 year;2;None;4;44;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+36;Critical Account / Other Credits Existing at Other Bank;Used car;10477;No Savings Account;more than 6 years;2;None;4;42;Free Housing;2;Skilled;1;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;1386;No Savings Account;1-3 years;4;None;2;40;Rented;1;Skilled;1;Yes;male;married/widowed;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1278;Less than 100 DM;more than 6 years;4;None;1;36;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1107;Less than 100 DM;1-3 years;2;None;2;20;Rented;1;Highly Skilled;2;Yes;male;single;1
+21;Existing Credits Paid Back Duly Till Now;New car;3763;No Savings Account;4-6 years;2;Co-applicant;2;24;Ownership;1;Unskilled - Resident;1;No;male;single;1
+36;Existing Credits Paid Back Duly Till Now;Education;3711;No Savings Account;1-3 years;2;None;2;27;Ownership;1;Skilled;1;Yes;male;married/widowed;1
+15;Delay in Paying Off in the Past;Used car;3594;Less than 100 DM;less than 1 year;1;None;2;46;Ownership;2;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+9;Existing Credits Paid Back Duly Till Now;New car;3195;No Savings Account;1-3 years;1;None;2;33;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+36;Delay in Paying Off in the Past;Radio/TV;4454;Less than 100 DM;1-3 years;4;None;4;34;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;4736;Less than 100 DM;less than 1 year;2;None;4;25;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+30;Existing Credits Paid Back Duly Till Now;Radio/TV;2991;No Savings Account;more than 6 years;2;None;4;25;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+11;Existing Credits Paid Back Duly Till Now;Business;2142;More than 1000 DM;more than 6 years;1;None;2;28;Ownership;1;Skilled;1;Yes;male;divorced/separated;1
+24;All Credits at This Bank Paid Back Duly;Business;3161;Less than 100 DM;1-3 years;4;None;2;31;Rented;1;Skilled;1;Yes;male;single;2
+48;No Credits Taken / All Credits Paid Back Duly;Used car;18424;Less than 100 DM;1-3 years;1;None;2;32;Ownership;1;Highly Skilled;1;No;female;divorced/separated/married;2
+10;Existing Credits Paid Back Duly Till Now;Used car;2848;100-500 DM;1-3 years;1;Co-applicant;2;32;Ownership;1;Skilled;2;Yes;male;single;1
+6;Existing Credits Paid Back Duly Till Now;New car;14896;Less than 100 DM;more than 6 years;1;None;4;68;Ownership;1;Highly Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;2359;100-500 DM;Unemployed;1;None;1;33;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3345;Less than 100 DM;more than 6 years;4;None;2;39;Rented;1;Highly Skilled;1;Yes;male;single;2
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1817;Less than 100 DM;1-3 years;4;None;2;28;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+48;Delay in Paying Off in the Past;Radio/TV;12749;500-1000 DM;4-6 years;4;None;1;37;Ownership;1;Highly Skilled;1;Yes;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1366;Less than 100 DM;less than 1 year;3;None;4;22;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;New car;2002;Less than 100 DM;4-6 years;3;None;4;30;Rented;1;Skilled;2;Yes;male;single;1
+24;All Credits at This Bank Paid Back Duly;Furniture/Equipment;6872;Less than 100 DM;less than 1 year;2;None;1;55;Ownership;1;Skilled;1;Yes;male;divorced/separated;2
+12;All Credits at This Bank Paid Back Duly;New car;697;Less than 100 DM;less than 1 year;4;None;2;46;Ownership;2;Skilled;1;Yes;male;single;2
+18;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1049;Less than 100 DM;less than 1 year;4;None;4;21;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;Existing Credits Paid Back Duly Till Now;Used car;10297;Less than 100 DM;4-6 years;4;None;4;39;Free Housing;3;Skilled;2;Yes;male;single;2
+30;Existing Credits Paid Back Duly Till Now;Radio/TV;1867;No Savings Account;more than 6 years;4;None;4;58;Ownership;1;Skilled;1;Yes;male;single;1
+12;Delay in Paying Off in the Past;New car;1344;Less than 100 DM;1-3 years;4;None;2;43;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1747;Less than 100 DM;less than 1 year;4;Co-applicant;1;24;Ownership;1;Unskilled - Resident;1;No;male;single;1
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;1670;Less than 100 DM;less than 1 year;4;None;2;22;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;2
+9;Critical Account / Other Credits Existing at Other Bank;New car;1224;Less than 100 DM;1-3 years;3;None;1;30;Ownership;2;Skilled;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Radio/TV;522;500-1000 DM;more than 6 years;4;None;4;42;Ownership;2;Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;1498;Less than 100 DM;1-3 years;4;None;1;23;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+30;Delay in Paying Off in the Past;Radio/TV;1919;100-500 DM;less than 1 year;4;None;3;30;Ownership;2;Highly Skilled;1;Yes;male;single;2
+9;Existing Credits Paid Back Duly Till Now;Radio/TV;745;Less than 100 DM;1-3 years;3;None;2;28;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;2
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;2063;Less than 100 DM;less than 1 year;4;None;3;30;Rented;1;Highly Skilled;1;Yes;male;married/widowed;1
+60;Existing Credits Paid Back Duly Till Now;Education;6288;Less than 100 DM;1-3 years;4;None;4;42;Free Housing;1;Skilled;1;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Used car;6842;No Savings Account;1-3 years;2;None;4;46;Ownership;2;Highly Skilled;2;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;3527;No Savings Account;less than 1 year;2;None;3;45;Ownership;1;Highly Skilled;2;Yes;male;single;1
+10;Existing Credits Paid Back Duly Till Now;New car;1546;Less than 100 DM;1-3 years;3;None;2;31;Ownership;1;Unskilled - Resident;2;No;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;929;No Savings Account;4-6 years;4;None;2;31;Ownership;1;Skilled;1;Yes;male;single;1
+4;Critical Account / Other Credits Existing at Other Bank;New car;1455;Less than 100 DM;4-6 years;2;None;1;42;Ownership;3;Unskilled - Resident;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1845;Less than 100 DM;less than 1 year;4;Guarantor;1;46;Rented;1;Skilled;1;Yes;female;divorced/separated/married;1
+48;No Credits Taken / All Credits Paid Back Duly;New car;8358;500-1000 DM;less than 1 year;1;None;1;30;Ownership;2;Skilled;1;Yes;female;divorced/separated/married;1
+24;All Credits at This Bank Paid Back Duly;Furniture/Equipment;3349;500-1000 DM;less than 1 year;4;None;4;30;Free Housing;1;Skilled;2;Yes;male;single;2
+12;Existing Credits Paid Back Duly Till Now;New car;2859;No Savings Account;Unemployed;4;None;4;38;Ownership;1;Highly Skilled;1;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1533;Less than 100 DM;less than 1 year;4;Co-applicant;1;43;Ownership;1;Unskilled - Resident;2;Yes;male;married/widowed;2
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;3621;100-500 DM;more than 6 years;2;None;4;31;Ownership;2;Skilled;1;Yes;male;single;2
+18;Critical Account / Other Credits Existing at Other Bank;Business;3590;Less than 100 DM;Unemployed;3;None;3;40;Ownership;3;Unemployed / Unskilled  - Non-Resident;2;Yes;male;married/widowed;1
+36;Delay in Paying Off in the Past;Business;2145;Less than 100 DM;4-6 years;2;None;1;24;Ownership;2;Skilled;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Used car;4113;500-1000 DM;less than 1 year;3;None;4;28;Rented;1;Skilled;1;Yes;female;divorced/separated/married;2
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;10974;Less than 100 DM;Unemployed;4;None;2;26;Ownership;2;Highly Skilled;1;Yes;female;divorced/separated/married;2
+12;Existing Credits Paid Back Duly Till Now;New car;1893;Less than 100 DM;1-3 years;4;Guarantor;4;29;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1231;More than 1000 DM;more than 6 years;4;None;4;57;Rented;2;Highly Skilled;1;Yes;female;divorced/separated/married;1
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;3656;No Savings Account;more than 6 years;4;None;4;49;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+9;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1154;Less than 100 DM;more than 6 years;2;None;4;37;Ownership;3;Unskilled - Resident;1;Yes;male;single;1
+28;Existing Credits Paid Back Duly Till Now;New car;4006;Less than 100 DM;1-3 years;3;None;2;45;Ownership;1;Unskilled - Resident;1;Yes;male;single;2
+24;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3069;100-500 DM;more than 6 years;4;None;4;30;Free Housing;1;Skilled;1;Yes;male;single;1
+6;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1740;Less than 100 DM;more than 6 years;2;None;2;30;Rented;2;Skilled;1;Yes;male;married/widowed;1
+21;Delay in Paying Off in the Past;New car;2353;Less than 100 DM;1-3 years;1;None;4;47;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+15;Existing Credits Paid Back Duly Till Now;New car;3556;No Savings Account;1-3 years;3;None;2;29;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;2397;500-1000 DM;more than 6 years;3;None;2;35;Ownership;2;Skilled;1;Yes;male;single;2
+6;Existing Credits Paid Back Duly Till Now;Repairs;454;Less than 100 DM;less than 1 year;3;None;1;22;Ownership;1;Unskilled - Resident;1;Yes;male;married/widowed;1
+30;Existing Credits Paid Back Duly Till Now;Radio/TV;1715;No Savings Account;1-3 years;4;None;1;26;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+27;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2520;500-1000 DM;1-3 years;4;None;2;23;Ownership;2;Unskilled - Resident;1;Yes;male;single;2
+15;Existing Credits Paid Back Duly Till Now;Radio/TV;3568;Less than 100 DM;more than 6 years;4;None;2;54;Rented;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+42;Existing Credits Paid Back Duly Till Now;Radio/TV;7166;No Savings Account;4-6 years;2;None;4;29;Rented;1;Skilled;1;Yes;male;married/widowed;1
+11;Critical Account / Other Credits Existing at Other Bank;New car;3939;Less than 100 DM;1-3 years;1;None;2;40;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+15;Existing Credits Paid Back Duly Till Now;Repairs;1514;100-500 DM;1-3 years;4;Guarantor;2;22;Ownership;1;Skilled;1;Yes;male;single;1
+24;Existing Credits Paid Back Duly Till Now;New car;7393;Less than 100 DM;1-3 years;1;None;4;43;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+24;All Credits at This Bank Paid Back Duly;New car;1193;Less than 100 DM;Unemployed;1;Co-applicant;4;29;Rented;2;Unemployed / Unskilled  - Non-Resident;1;Yes;female;divorced/separated/married;2
+60;Existing Credits Paid Back Duly Till Now;Business;7297;Less than 100 DM;more than 6 years;4;Co-applicant;4;36;Rented;1;Skilled;1;Yes;male;single;2
+30;Critical Account / Other Credits Existing at Other Bank;Radio/TV;2831;Less than 100 DM;1-3 years;4;None;2;33;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Radio/TV;1258;500-1000 DM;1-3 years;3;None;3;57;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+6;Existing Credits Paid Back Duly Till Now;Radio/TV;753;Less than 100 DM;1-3 years;2;Guarantor;3;64;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+18;Delay in Paying Off in the Past;Business;2427;No Savings Account;more than 6 years;4;None;2;42;Ownership;2;Skilled;1;Yes;male;single;1
+24;Delay in Paying Off in the Past;New car;2538;Less than 100 DM;more than 6 years;4;None;4;47;Ownership;2;Unskilled - Resident;2;Yes;male;single;2
+15;All Credits at This Bank Paid Back Duly;New car;1264;100-500 DM;1-3 years;2;None;2;25;Rented;1;Skilled;1;Yes;male;married/widowed;2
+30;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;8386;Less than 100 DM;4-6 years;2;None;2;49;Ownership;1;Skilled;1;Yes;male;single;2
+48;Existing Credits Paid Back Duly Till Now;Business;4844;Less than 100 DM;Unemployed;3;None;2;33;Rented;1;Highly Skilled;1;Yes;male;single;2
+21;Existing Credits Paid Back Duly Till Now;New car;2923;100-500 DM;1-3 years;1;None;1;28;Ownership;1;Highly Skilled;1;Yes;female;divorced/separated/married;1
+36;Existing Credits Paid Back Duly Till Now;Used car;8229;Less than 100 DM;1-3 years;2;None;2;26;Ownership;1;Skilled;2;Yes;male;single;2
+24;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;2028;Less than 100 DM;4-6 years;2;None;2;30;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+15;Critical Account / Other Credits Existing at Other Bank;Furniture/Equipment;1433;Less than 100 DM;1-3 years;4;None;3;25;Rented;2;Skilled;1;Yes;female;divorced/separated/married;1
+42;No Credits Taken / All Credits Paid Back Duly;Business;6289;Less than 100 DM;less than 1 year;2;None;1;33;Ownership;2;Skilled;1;Yes;male;divorced/separated;1
+13;Existing Credits Paid Back Duly Till Now;Radio/TV;1409;100-500 DM;Unemployed;2;None;4;64;Ownership;1;Skilled;1;Yes;female;divorced/separated/married;1
+24;Existing Credits Paid Back Duly Till Now;Used car;6579;Less than 100 DM;Unemployed;4;None;2;29;Free Housing;1;Highly Skilled;1;Yes;male;single;1
+24;Critical Account / Other Credits Existing at Other Bank;Radio/TV;1743;Less than 100 DM;more than 6 years;4;None;2;48;Ownership;2;Unskilled - Resident;1;Yes;male;single;1
+12;Critical Account / Other Credits Existing at Other Bank;Education;3565;No Savings Account;less than 1 year;2;None;1;37;Ownership;2;Unskilled - Resident;2;Yes;male;single;1
+15;All Credits at This Bank Paid Back Duly;Radio/TV;1569;100-500 DM;more than 6 years;4;None;4;34;Ownership;1;Unskilled - Resident;2;Yes;male;single;1
+18;Existing Credits Paid Back Duly Till Now;Radio/TV;1936;No Savings Account;4-6 years;2;None;4;23;Rented;2;Unskilled - Resident;1;Yes;male;married/widowed;1
+36;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;3959;Less than 100 DM;Unemployed;4;None;3;30;Ownership;1;Highly Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;New car;2390;No Savings Account;more than 6 years;4;None;3;50;Ownership;1;Skilled;1;Yes;male;single;1
+12;Existing Credits Paid Back Duly Till Now;Furniture/Equipment;1736;Less than 100 DM;4-6 years;3;None;4;31;Ownership;1;Unskilled - Resident;1;Yes;female;divorced/separated/married;1
+30;Existing Credits Paid Back Duly Till Now;Used car;3857;Less than 100 DM;1-3 years;4;None;4;40;Ownership;1;Highly Skilled;1;Yes;male;divorced/separated;1
+12;Existing Credits Paid Back Duly Till Now;Radio/TV;804;Less than 100 DM;more than 6 years;4;None;4;38;Ownership;1;Skilled;1;Yes;male;single;1
+45;Existing Credits Paid Back Duly Till Now;Radio/TV;1845;Less than 100 DM;1-3 years;4;None;4;23;Free Housing;1;Skilled;1;Yes;male;single;2
+45;Critical Account / Other Credits Existing at Other Bank;Used car;4576;100-500 DM;Unemployed;3;None;4;27;Ownership;1;Skilled;1;Yes;male;single;1
