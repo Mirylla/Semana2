@@ -4,3 +4,4 @@ hydralit_components
 numpy
 pandas
 streamlit==v1.10.0
+matplotlib
