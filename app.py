@@ -16,7 +16,7 @@ import apps
 
 app = hy.HydraApp(title='APP DATA SCIENCE')
 #Home button will be in the middle of the nav list now
-app.add_app("Data", icon="🏠", app=apps.HomeApp(title='Data'),is_home=True)
+#app.add_app("Data", icon="🏠", app=apps.HomeApp(title='Data'),is_home=True)
 @st.cache()
 def load_data(nrows):
     working_directory = os.getcwd()
