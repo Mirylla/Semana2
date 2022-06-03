@@ -18,7 +18,7 @@ import apps
 from hydralit import HydraApp
 
 def load_data(nrows):
-    data_df = pd.read_csv(loan.csv,
+    data_df = pd.read_csv("loan.csv",
                           delimiter=";")
     return data_df
 
