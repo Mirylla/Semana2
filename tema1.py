@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-# +
 #when we import hydralit, we automatically get all of Streamlit
-
 import hydralit as hy
 from hydralit import HydraApp
 import altair as alt
@@ -15,18 +12,23 @@ import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
 import apps
-from hydralit import HydraApp
+
+
+
+
 
 def load_data(nrows):
+    working_directory = os.getcwd()
+    filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
     data_df = pd.read_csv("loan.csv",
                           delimiter=";")
     return data_df
 
 raw_df = load_data(100)
 
-app = hy.HydraApp(title='Simple Multi-Page App')
+app = hy.HydraApp(title='APP DATA SCIENCE')
 
-@app.addapp()
+@app.addapp(is_home=True)
 def my_home():
  hy.info('DataSet')
  num_housing = raw_df['Housing'].nunique()
@@ -43,10 +45,49 @@ def my_home():
      st.markdown("## DataSet of Loan")
      st.dataframe(raw_df.head(100))
 
-@app.addapp()
+@app.addapp(title='Gráficos')
 def app2():
- hy.info('Hello from app 2')
+ hy.info('Gráficos')
+ st.title("Load of german3")
+ st.set_option('deprecation.showPyplotGlobalUse', False)
+    #histogram
+ column1, column2,column3, _ = st.columns([1, 1, 1, 1])
+ with st.container():
+  with column1:
+   df = pd.DataFrame(raw_df[:200], columns = ['Loan Amount'])
+   df.hist()
+   plt.show()
+   st.pyplot()
+   #st.sidebar.markdown("# Filters")
+   #teams_selected = st.sidebar.multiselect('Select team:',
+  #raw_df.Housing.unique())
+    
+ with st.container():
+  with column2:
+   df = pd.DataFrame(raw_df[:200], columns = ['Age'])
+   df.hist()
+   plt.show()
+   st.pyplot()
+    
+ with st.container():
+  with column3:
+   df = pd.DataFrame(raw_df[:200], columns = ['Loan Duration'])
+   df.hist()
+   plt.show()
+   st.pyplot()
 
 
+@app.addapp(title='Correlación')
+def app3():
+ hy.info('Correlación')
+ st.title("Load of german3")
+ st.set_option('deprecation.showPyplotGlobalUse', False)
+    #histogram
+ with st.container():
+  df = pd.DataFrame(raw_df[:200], columns = ['Loan Amount'])
+  df.hist()
+  plt.show()
+  st.pyplot()
+    
 #Run the whole lot, we get navbar, state management and app isolation, all with this tiny amount of work.
 app.run()
