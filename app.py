@@ -3,7 +3,6 @@
 #when we import hydralit, we automatically get all of Streamlit
 import hydralit as hy
 from hydralit import HydraApp
-import apps
 import altair as alt
 import math
 import os
