@@ -26,7 +26,7 @@ app = hy.HydraApp(title='APP DATA SCIENCE')
 
 @app.addapp(is_home=True)
 def my_home():
- hy.info('DataSet hola')
+ hy.info('DataSet')
  num_housing = raw_df['Housing'].nunique()
  num_loan = raw_df['Loan Duration'].nunique()
  min_value = math.floor(raw_df.Age.min())
