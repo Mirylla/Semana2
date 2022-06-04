@@ -13,10 +13,6 @@ import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
 import apps
 
-
-
-
-
 def load_data(nrows):
     working_directory = os.getcwd()
     filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
@@ -30,7 +26,7 @@ app = hy.HydraApp(title='APP DATA SCIENCE')
 
 @app.addapp(is_home=True)
 def my_home():
- hy.info('DataSet')
+ hy.info('DataSet hola')
  num_housing = raw_df['Housing'].nunique()
  num_loan = raw_df['Loan Duration'].nunique()
  min_value = math.floor(raw_df.Age.min())
