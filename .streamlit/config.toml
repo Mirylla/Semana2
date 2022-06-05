@@ -1,9 +1,10 @@
 [theme]
 
-primaryColor="#d33682"
+primaryColor="#6eb52f"
+#primaryColor="#d33682"
 #backgroundColor="#f0f0f5" blanco
 backgroundColor="#002b36"
 secondaryBackgroundColor="#e0e0ef"
-#secondaryBackgroundColor="#586e75"
+#secondaryBackgroundColor="#586e75" letras
 textColor="#fafafa"
 font="sans serif"
