@@ -1,8 +1,9 @@
 [theme]
 
 primaryColor="#d33682"
-backgroundColor="#f0f0f5"
-#backgroundColor="#002b36"
-secondaryBackgroundColor="#586e75"
+#backgroundColor="#f0f0f5" blanco
+backgroundColor="#002b36"
+secondaryBackgroundColor="#e0e0ef"
+#secondaryBackgroundColor="#586e75"
 textColor="#fafafa"
 font="sans serif"
