@@ -26,7 +26,7 @@ app = hy.HydraApp(title='APP DATA SCIENCE')
 
 @app.addapp(is_home=True)
 def my_home():
- hy.info('DataSet')
+ #hy.info('DataSet')
  num_housing = raw_df['Housing'].nunique()
  num_loan = raw_df['Loan Duration'].nunique()
  min_value = math.floor(raw_df.Age.min())
@@ -43,7 +43,7 @@ def my_home():
 
 @app.addapp(title='Gráficos')
 def app2():
- hy.info('Gráficos')
+ #hy.info('Gráficos')
  st.title("Load of german3")
  st.set_option('deprecation.showPyplotGlobalUse', False)
     #histogram
@@ -75,7 +75,7 @@ def app2():
 
 @app.addapp(title='Correlación')
 def app3():
- hy.info('Correlación')
+ #hy.info('Correlación')
  st.title("Load of german3")
  st.set_option('deprecation.showPyplotGlobalUse', False)
     #histogram
