@@ -8,3 +8,6 @@ secondaryBackgroundColor="#44475A"
 #secondaryBackgroundColor="#586e75" letras
 textColor="#F8F8F2"
 font="sans serif"
+
+[browser]
+wideMode = True
