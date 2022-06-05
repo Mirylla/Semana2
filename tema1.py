@@ -7,12 +7,12 @@ import os
 import pandas as pd
 import numpy as np  # np mean, np random
 import streamlit as st  # 🎈 data web app development
+st.set_page_config(layout="wide")
 #import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
 import apps
-st.set_page_config(layout="wide")
 def load_data(nrows):
     working_directory = os.getcwd()
     filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
