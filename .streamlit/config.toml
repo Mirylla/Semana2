@@ -4,7 +4,8 @@ primaryColor="#4FA1F5"
 #primaryColor="#d33682"
 #backgroundColor="#f0f0f5" fondo blanco
 #fondo gris:
-backgroundColor="#282A36"
+#backgroundColor="#282A36"
+backgroundColor="#606971"
 #gris
 secondaryBackgroundColor="#44475A"
 #secondaryBackgroundColor="#586e75" letras
