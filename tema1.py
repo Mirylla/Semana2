@@ -48,7 +48,7 @@ def app2():
  st.set_option('deprecation.showPyplotGlobalUse', False)
     #histogram
 #column1, column2,column3, _ = st.columns([1, 1, 1, 1])
-with st.container():
+ with st.container():
    df = pd.DataFrame(raw_df[:200], columns = ['Loan Amount'])
    df.hist()
    plt.show()
@@ -57,13 +57,13 @@ with st.container():
    #teams_selected = st.sidebar.multiselect('Select team:',
   #raw_df.Housing.unique())
 
-with st.container():
+ with st.container():
    df = pd.DataFrame(raw_df[:200], columns = ['Age'])
    df.hist()
    plt.show()
    st.pyplot()
 
-with st.container():
+ with st.container():
    df = pd.DataFrame(raw_df[:200], columns = ['Loan Duration'])
    df.hist()
    plt.show()
