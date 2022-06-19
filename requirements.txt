@@ -10,3 +10,5 @@ seaborn
 sklearn
 community
 community_louvain
+networkx
+louvain
