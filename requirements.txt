@@ -8,6 +8,5 @@ matplotlib
 apps
 seaborn
 sklearn
-community
 networkx
 louvain
