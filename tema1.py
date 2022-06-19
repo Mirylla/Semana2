@@ -18,22 +18,10 @@ import networkx as nx
 
 
 def load_data(nrows):
-    data_df = pd.read_csv("loan.csv",
+    data_df = pd.read_csv("loan.csv")
     return data_df
 
 raw_df = load_data(1000)
-
-def load_data2(nrows):
-    working_directory = os.getcwd()
-    filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan2.csv'
-    data_df = pd.read_csv(working_directory + filename,
-                          delimiter=";")
-    return data_df
-
-raw_df2 = load_data2(50)
-
-
-
 
 app = hy.HydraApp(title='Data Science App')
 
