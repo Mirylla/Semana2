@@ -378,9 +378,9 @@ def app6():
 @app.addapp(title='Escalando y Sin categorizar-Análisis')
 def app7():
     def load_data(nrows):
-    data_df = pd.read_csv('loan.csv',
+        data_df = pd.read_csv('loan.csv',
                           delimiter=";")
-    return data_df
+        return data_df
     df = load_data(1000)
     hy.info('Análisis del tipo de dato')
     st.table(df.describe())
