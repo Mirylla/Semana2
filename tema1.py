@@ -15,6 +15,7 @@ import seaborn as sns
 import sklearn
 import matplotlib.cm as cm
 import networkx as nx
+from community import community_louvain
 
 
 def load_data(nrows):
