@@ -19,7 +19,7 @@ import networkx as nx
 
 def load_data(nrows):
     working_directory = os.getcwd()
-    filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
+    filename = '/OneDrive/Documentos/MASTER_BIG_DATA/Vodafone_Elena_Abril/loan.csv'
     data_df = pd.read_csv(working_directory + filename,
                           delimiter=";")
     return data_df
