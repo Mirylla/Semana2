@@ -380,15 +380,11 @@ def app6():
 
 @app.addapp(title='Escalando y Sin categorizar-Análisis')
 def app6():
-    
     def load_data(nrows):
-      working_directory = os.getcwd()
-      filename = '\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan.csv'
-      data_df = pd.read_csv(working_directory + filename,
+    data_df = pd.read_csv('loan.csv',
                           delimiter=";")
-      return data_df
-
-    df = load_data(100)
+    return data_df
+    df = load_data(1000)
     hy.info('Análisis del tipo de dato')
     st.table(df.describe())
     
