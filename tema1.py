@@ -246,7 +246,7 @@ def app5():
 @app.addapp(title='Test')
 def app6():
     
-    
+    st.set_option('deprecation.showPyplotGlobalUse', False)
     def create_from_pd(self, pd_graph, nx_graph=None, directional=False):
 
         nodes_df = pd_graph.get_nodes()
@@ -280,8 +280,8 @@ def app6():
 
 
 @app.addapp(title='categorizando')
-def app6():
-
+def app7():
+  st.set_option('deprecation.showPyplotGlobalUse', False)
   def load_data(nrows):
         data_df = pd.read_csv('loan.csv',
                           delimiter=";")
@@ -377,7 +377,9 @@ def app6():
 
 
 @app.addapp(title='Escalando y Sin categorizar-Análisis')
-def app7():
+def app8():
+    
+    st.set_option('deprecation.showPyplotGlobalUse', False)
     def load_data(nrows):
         data_df = pd.read_csv('loan.csv',
                           delimiter=";")
