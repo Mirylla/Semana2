@@ -18,8 +18,7 @@ import networkx as nx
 
 
 def load_data(nrows):
-    data_df = pd.read_csv('\OneDrive\\Documentos\\MASTER_BIG_DATA\\Vodafone_Elena_Abril\\loan2.csv',
-                          delimiter=";")
+    data_df = pd.read_csv("loan.csv",
     return data_df
 
 raw_df = load_data(1000)
