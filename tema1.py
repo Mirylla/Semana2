@@ -18,7 +18,7 @@ import networkx as nx
 
 
 def load_data(nrows):
-    data_df = pd.read_csv(loan.csv,
+    data_df = pd.read_csv('loan.csv',
                           delimiter=";")
     return data_df
 
