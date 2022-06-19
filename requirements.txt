@@ -6,3 +6,4 @@ pandas
 streamlit==v1.10.0
 matplotlib
 apps
+seaborn
