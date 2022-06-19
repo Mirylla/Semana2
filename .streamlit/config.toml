@@ -13,3 +13,6 @@ secondaryBackgroundColor="#44475A"
 textColor="#F8F8F2"
 font="sans serif"
 
+
+[deprecation]
+showPyplotGlobalUse = False
