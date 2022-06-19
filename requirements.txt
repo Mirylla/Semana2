@@ -8,3 +8,4 @@ matplotlib
 apps
 seaborn
 sklearn
+community
