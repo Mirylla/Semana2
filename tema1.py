@@ -15,7 +15,6 @@ import seaborn as sns
 import sklearn
 import matplotlib.cm as cm
 import networkx as nx
-import markov_clustering as mc
 
 
 def load_data(nrows):
