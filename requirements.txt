@@ -9,3 +9,4 @@ apps
 seaborn
 sklearn
 community
+community_louvain
