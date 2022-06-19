@@ -281,13 +281,12 @@ def app6():
 @app.addapp(title='categorizando')
 def app6():
 
-    def load_data(nrows):
+  def load_data(nrows):
         data_df = pd.read_csv('loan.csv',
                           delimiter=";")
         return data_df
-
   df = load_data(1000)
-    
+
   st.table(df.describe())
   st.set_option('deprecation.showPyplotGlobalUse', False)
 
