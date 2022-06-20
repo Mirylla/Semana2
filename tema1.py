@@ -16,7 +16,6 @@ import sklearn
 from community import community_louvain
 import matplotlib.cm as cm
 import networkx as nx
-import markov_clustering as mc
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from mpl_toolkits.mplot3d import Axes3D
