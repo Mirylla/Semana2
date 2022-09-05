@@ -11,4 +11,3 @@ sklearn
 networkx
 louvain
 pyspark
-re==v22.2.2
