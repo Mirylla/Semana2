@@ -11,7 +11,6 @@ import streamlit as st
 import networkx as nx
 import pandas as pd
 import numpy as np
-import plotly.express as px
 import altair as alt
 import math
 import os
@@ -52,7 +51,6 @@ app = hy.HydraApp(title='Science App')
 @app.addapp(is_home=True)
 def my_home():
     hy.info('DataSet')
-    px.histogram(df_norte,  nbins=100,opacity=.5,title="Tweets by date")
         
 
 
