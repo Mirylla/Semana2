@@ -19,10 +19,6 @@ import matplotlib.lines as mlines
 import matplotlib.patches as mpatches
 import seaborn as sns
 import sklearn
-import markov_clustering as mc
-from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from mpl_toolkits.mplot3d import Axes3D
 import re
 import nltk
 nltk.download('stopwords')
