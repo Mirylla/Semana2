@@ -12,3 +12,4 @@ networkx
 louvain
 pyspark
 re
+nltk
